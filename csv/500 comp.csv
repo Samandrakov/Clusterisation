@@ -1,0 +1,503 @@
+ Ranking , Company , Sector ,"G?nero
+œÓÎ (ÌÂÚ ‚ ÓÒÌÓ‚ÌÓÈ Ú‡·ÎËˆÂ)", Country , Ventas , neto , oper , Activo ,"Pasivo total (mdp) 
+—ÛÏÏ‡ Ô‡ÒÒË‚‡ (‚ ·‡Î‡ÌÒÂ) (ÏËÎÎËÓÌ˚ ÔÂÒÓ)", Empl , Posici?n en el ranking 2020 , Roe , Ranking Ganado 
+1,Petr?leos Mexicanos,Petr?leo y gas,H,M?xico," 14†956†286,00 ","-2†947†759,00 "," 2†289†273,00 "," 20†520†982,00 "," 4†222†099,00 "," 123†842,00 "," 2,00 ", nd ,1
+2,Am?rica M?vil,Telecomunicaciones,H,M?xico," 8†555†349,00 "," 1†963†261,00 "," 1†661†326,00 "," 16†896†498,00 "," 12†356†081,00 "," 181†205,00 "," 1,00 "," 432,00 ",-1
+3,Walmart de M?xico,Comercio autoservicio,H,Estados Unidos," 736†044,00 "," 44†138,00 "," 629†077,00 "," 3†943†895,00 "," 208†507,00 "," 231†259,00 "," 3,00 "," 237,00 ",0
+4,Comisi?n Federal de Electricidad,Energ?a,H,M?xico," 5†666†867,00 ","-1†062†601,00 ","-35†461,00 "," 22†663†485,00 "," 1†565†657,00 "," 87†690,00 "," 4,00 ","-152,00 ",0
+5,FEMSA,Holding,H,M?xico," 556†261,00 "," 37†677,00 "," 54†575,00 "," 737†500,00 "," 402†383,00 "," 320†808,00 "," 5,00 "," 112,00 ",0
+6,General Motors de M?xico,Armadora,H,Estados Unidos," 3†495†044,00 ", nd , nd , nd , nd ," 20†614,00 "," 6,00 ", nd ,0
+7,Grupo Bimbo,Alimentos y bebidas,H,M?xico," 348†887,00 "," 17†382,00 "," 34†126,00 "," 337†639,00 "," 236†033,00 "," 137†543,00 "," 7,00 "," 171,00 ",0
+8,Alfa,Holding,H,M?xico," 308†060,00 "," 7†429,00 "," 25†282,00 "," 269†107,00 "," 214†286,00 "," 56†160,00 "," 11,00 "," 136,00 ",3
+9,Grupo M?xico,Holding,H,M?xico," 2†997†507,00 "," 802†006,00 "," 1†522†636,00 "," 6†639†372,00 "," 2†879†252,00 "," 29†707,00 "," 12,00 "," 213,00 ",3
+10,Cemex,Cemento,H,M?xico," 2†951†111,00 "," 152†749,00 "," 328†217,00 "," 5†453†603,00 "," 3†351†766,00 "," 46†124,00 "," 8,00 "," 73,00 ",-2
+11,Grupo Financiero BBVA Bancomer,Servicios financieros,H,Espa?a," 286†243,00 "," 65†502,00 "," 90†823,00 "," 2†752†369,00 "," 2†433†602,00 "," 39†400,00 "," 9,00 "," 205,00 ",-2
+12,Stellantis M?xico,Armadora,H,Pa?ses Bajos," 283†000,00 ", nd , nd , nd , nd , nd ," 10,00 ", nd ,-2
+13,Grupo BAL,Holding,H,M?xico," 2†651†322,00 "," 138†392,00 "," 284†971,00 "," 5†587†711,00 "," 4†052†556,00 "," 39†735,00 "," 13,00 "," 9,00 ",0
+14,Americas Mining Corporation,Miner?a,H,M?xico," 2†450†208,00 "," 80†246,00 "," 1†318†025,00 "," 4†533†681,00 "," 2†160†189,00 ", nd ," 17,00 "," 338,00 ",3
+15,Grupo Coppel,Comercio departamental,H,M?xico," 221†570,00 ", nd , nd , nd , nd ," 114†171,00 "," 16,00 ", nd ,1
+16,Grupo Financiero Banorte,Servicios financieros,H,M?xico," 214†994,00 "," 35†048,00 "," 43†822,00 "," 1†850†879,00 "," 1†613†639,00 "," 25†766,00 "," 14,00 "," 148,00 ",-2
+17,Kaluz,Holding,H,M?xico," 2†136†678,00 "," 161†387,00 "," 335†688,00 "," 3†406†311,00 "," 2†513†644,00 "," 25†254,00 "," 21,00 "," 181,00 ",4
+18,Ternium M?xico,Siderurgia y metalurgia,H,Luxemburgo," 199†419,00 "," 44†984,00 "," 63†953,00 "," 188†251,00 "," 59†062,00 "," 9†066,00 "," 38,00 "," 348,00 ",20
+19,FEMSA Comercio (Oxxo),Comercio autoservicio,H,M?xico," 198†586,00 ", nd ," 18†387,00 ", nd , nd ," 168†000,00 "," 19,00 ", nd ,0
+20,Ford de M?xico,Armadora,H,Estados Unidos," 196†406,00 ", nd , nd , nd , nd ," 11†791,00 "," 34,00 ", nd ,14
+21,Coca-Cola FEMSA,Alimentos y bebidas,H,M?xico," 194†804,00 "," 15†708,00 "," 27†179,00 "," 271†567,00 "," 143†995,00 "," 83†754,00 "," 18,00 "," 123,00 ",-3
+22,Grupo Salinas,Holding,H,M?xico," 1†938†882,00 "," 138†577,00 "," 171†242,00 "," 5†165†473,00 "," 3†956†823,00 "," 100†000,00 "," 25,00 "," 115,00 ",3
+23,Grupo Comercial Chedraui,Comercio autoservicio,H,M?xico," 1†884†868,00 "," 34†805,00 "," 87†483,00 "," 141†040,00 "," 1†083†792,00 "," 62†938,00 "," 28,00 "," 107,00 ",5
+24,Arca Continental,Alimentos y bebidas,H,M?xico," 1†833†664,00 "," 150†893,00 "," 253†609,00 "," 2†580†269,00 "," 1†078†898,00 "," 62†857,00 "," 22,00 "," 101,00 ",-2
+25,Nissan Mexicana,Armadora,H,Jap?n," 181†101,00 ", nd , nd ," 114†227,00 "," 56†866,00 "," 18†317,00 "," 23,00 ", nd ,-2
+26,Infonavit,Servicios financieros,H,M?xico," 1†805†918,00 "," 90†571,00 "," 657†727,00 "," 18†822†768,00 "," 16†073†818,00 "," 4†500,00 "," 20,00 "," 33,00 ",-6
+27,Orbia Advance Corporation,Holding,H,M?xico," 1†781†641,00 "," 133†304,00 "," 293†917,00 "," 2†166†453,00 "," 1†469†771,00 "," 22†393,00 "," 31,00 "," 191,00 ",4
+28,Volkswagen de M?xico,Armadora,H,Alemania," 174†411,00 "," 6†338,00 "," 10†744,00 "," 115†686,00 "," 88†283,00 "," 12†719,00 "," 24,00 "," 231,00 ",-4
+29,Toyota Motor Sales de M?xico,Armadora,H,Jap?n," 170†000,00 ", nd , nd , nd , nd , nd ," 30,00 ", nd ,1
+30,Grupo Financiero Citibanamex,Servicios financieros,H,Estados Unidos," 169†067,00 "," 27†451,00 "," 35†014,00 "," 1†560†844,00 "," 1†560†844,00 "," 39†562,00 "," 15,00 "," 128,00 ",-15
+31,Alpek,Qu?mica y petroqu?mica,H,M?xico," 156†224,00 "," 10†196,00 "," 17†494,00 "," 123†945,00 "," 74†359,00 "," 6†467,00 "," 37,00 "," 206,00 ",6
+32,Organizaci?n Soriana,Comercio autoservicio,H,M?xico," 152†131,00 "," 4†349,00 "," 9†137,00 "," 143†058,00 "," 72†230,00 "," 86†565,00 "," 26,00 "," 61,00 ",-6
+33,El Puerto de Liverpool,Comercio departamental,H,M?xico," 1†510†217,00 "," 128†682,00 "," 23†907,00 "," 2†219†707,00 "," 1†020†832,00 "," 72†719,00 "," 36,00 "," 107,00 ",3
+34,Sam's Club,Comercio autoservicio,H,Estados Unidos," 1†509†588,00 ", nd , nd , nd , nd ," 30†000,00 "," 27,00 ", nd ,-7
+35,Grupo Elektra,Holding,H,M?xico," 1†460†188,00 "," 129†438,00 "," 136†684,00 "," 423†694,00 "," 318†239,00 "," 67†848,00 "," 35,00 "," 123,00 ",0
+36,Sigma Alimentos,Alimentos y bebidas,H,M?xico," 1†383†138,00 "," 11†426,00 "," 90†718,00 "," 1†106†147,00 "," 896†817,00 "," 47†000,00 "," 32,00 "," 55,00 ",-4
+37,Honda de M?xico,Armadora,H,Jap?n," 137†700,00 ", nd , nd , nd , nd , nd ," 33,00 ", nd ,-4
+38,Grupo Financiero Santander M?xico,Servicios financieros,H,Espa?a," 133†674,00 "," 18†097,00 "," 21†769,00 "," 1†641†111,00 "," 1†473†914,00 "," 24†486,00 "," 29,00 "," 108,00 ",-9
+39,Industrias Pe?oles,Miner?a,H,M?xico," 1†211†403,00 "," 79†386,00 "," 199†187,00 "," 2†004†073,00 "," 975†996,00 "," 15†723,00 "," 39,00 "," 77,00 ",0
+40,Grupo Carso,Holding,H,M?xico," 1†205†817,00 "," 11†282,00 "," 88†659,00 "," 1†857†733,00 "," 716†986,00 "," 79†375,00 "," 43,00 "," 99,00 ",3
+41,Grupo Modelo AB-InBev,Bebidas alcoh?licas y tabaco,H,B?lgica," 103†550,00 ", nd , nd , nd , nd ," 40†617,00 "," 44,00 ", nd ,3
+42,Grupo Televisa,Holding,H,M?xico," 1†035†218,00 "," 60†558,00 "," 221†773,00 "," 2†937†421,00 "," 197†218,00 "," 46†786,00 "," 41,00 "," 63,00 ",-1
+43,KIA Motors M?xico,Armadora,H,Corea," 95†000,00 ", nd , nd , nd , nd , nd ," 45,00 ", nd ,2
+44,Gruma,Alimentos y bebidas,H,M?xico," 942†504,00 "," 6†156,00 "," 112†831,00 "," 78†776,00 "," 49†213,00 "," 22†492,00 "," 42,00 "," 208,00 ",-2
+45,Heineken M?xico,Bebidas alcoh?licas y tabaco,H,Pa?ses Bajos," 90†000,00 ", nd , nd , nd , nd ," 18†000,00 "," 49,00 ", nd ,4
+46,Jabil Circuit de M?xico,Electr?nica,H,Estados Unidos," 880†394,00 ", nd , nd ," 72†487,00 ", nd ," 28†300,00 "," 40,00 ", nd ,-6
+47,PepsiCo Alimentos M?xico,Alimentos y bebidas,H,Estados Unidos," 87†462,00 "," 21†299,00 ", nd ," 355†275,00 ", nd ," 49†029,00 "," 48,00 ", nd ,1
+48,Samsung M?xico,Electr?nica de consumo,H,Corea," 87†000,00 ", nd , nd , nd , nd , nd ," 54,00 ", nd ,6
+49,Flextronics Manufacturing M?xico,Electr?nica,H,Singapur," 86†546,00 "," 1†200,00 ", nd ," 113†035,00 ", nd ," 35†000,00 "," 46,00 ", nd ,-3
+50,Corporativo Fragua,Comercio de medicamentos,H,M?xico," 847†944,00 "," 26†218,00 "," 52†172,00 "," 389†679,00 "," 216†535,00 "," 49†392,00 "," 51,00 "," 151,00 ",1
+51,Grupo Xignux,Holding,H,M?xico," 847†894,00 "," 31†796,00 "," 66†384,00 "," 827†724,00 "," 702†714,00 "," 27†215,00 "," 63,00 "," 254,00 ",12
+52,Iberdrola M?xico,Energ?a,H,Espa?a," 836†662,00 ", nd ," 13†213,00 ", nd , nd ," 1†300,00 "," 61,00 ", nd ,9
+53,Mabe,Electr?nica de consumo,H,M?xico," 83†502,00 "," 3†538,00 "," 5†756,00 "," 67†371,00 "," 47†195,00 "," 24†635,00 "," 55,00 "," 175,00 ",2
+54,Grupo Lala,Alimentos y bebidas,H,M?xico," 81†944,00 ","-14†696,00 "," 10†021,00 "," 660†886,00 "," 520†406,00 "," 39†832,00 "," 47,00 ","-105,00 ",-7
+55,Industrias Bachoco,Agroindustria,H,M?xico," 816†991,00 "," 50†656,00 "," 58†919,00 "," 659†888,00 "," 177†047,00 "," 32†058,00 "," 57,00 "," 105,00 ",2
+56,Grupo Villacero,Siderurgia y metalurgia,H,M?xico," 80†000,00 ", nd , nd , nd , nd ," 10†000,00 "," 76,00 ", nd ,20
+57,Magna International M?xico,Automotriz y autopartes,H,Canad?," 777†537,00 ", nd , nd ," 247†612,00 ", nd , nd ," 53,00 ", nd ,-4
+58,Nemak,Automotriz y autopartes,H,M?xico," 77†078,00 "," 85,00 "," 4†662,00 "," 101†395,00 "," 65†882,00 "," 20†493,00 "," 60,00 "," 2,00 ",2
+59,GNP,Seguros y fianzas,H,M?xico," 745†401,00 "," 1†618,00 "," 1†913,00 "," 201†356,00 "," 185†832,00 "," 7†500,00 "," 52,00 "," 104,00 ",-7
+60,Nestl? M?xico,Alimentos y bebidas,H,Suiza," 74†200,00 ", nd , nd , nd , nd ," 12†583,00 "," 59,00 ", nd ,-1
+61,Continental M?xico,Automotriz y autopartes,H,Alemania," 73†700,00 ", nd , nd , nd , nd ," 20†000,00 "," 58,00 ", nd ,-3
+62,FEMSA Divisi?n Salud,Comercio de medicamentos,H,M?xico," 73†027,00 ", nd ," 3†762,00 ", nd , nd ," 32†058,00 "," 62,00 ", nd ,0
+63,Banco Azteca,Servicios financieros,H,M?xico," 68†974,00 "," 1†448,00 "," 2†169,00 "," 257†014,00 "," 231†488,00 "," 42†482,00 "," 67,00 "," 57,00 ",4
+64,Grupo Financiero HSBC,Servicios financieros,H,Reino Unido," 68†040,00 "," 4†412,00 "," 64†541,00 "," 726†735,00 "," 655†320,00 "," 14†522,00 "," 50,00 "," 62,00 ",-14
+65,Grupo Financiero Inbursa,Servicios financieros,H,M?xico," 670†615,00 "," 208†921,00 "," 207†879,00 "," 5†709†759,00 "," 3†968†989,00 "," 3†800,00 "," 56,00 "," 12,00 ",-9
+66,Tiendas Elektra,Comercio departamental,H,M?xico," 65†530,00 ", nd , nd ," 133†451,00 "," 76†843,00 ", nd ," 73,00 ", nd ,7
+67,Robert Bosch M?xico,Tecnolog?a diversificada,H,Alemania," 65†000,00 ", nd , nd , nd , nd ," 18†000,00 "," 66,00 ", nd ,-1
+68,SuKarne,Agroindustria,H,M?xico," 64†897,00 "," 5†179,00 "," 7†933,00 "," 37†616,00 "," 15†323,00 "," 14†540,00 "," 71,00 "," 232,00 ",3
+69,DeAcero,Siderurgia y metalurgia,H,M?xico," 64†000,00 ", nd , nd , nd , nd ," 8†000,00 "," 95,00 ", nd ,26
+70,MetLife M?xico,Seguros y fianzas,M,Estados Unidos," 624†412,00 "," 30†785,00 ","-43†079,00 "," 133†284,00 "," 1†204†358,00 "," 1†750,00 "," 68,00 "," 24,00 ",-2
+71,Industrias CH,Siderurgia y metalurgia,H,M?xico," 620†226,00 "," 94†255,00 "," 152†714,00 "," 673†663,00 "," 156†885,00 "," 6†502,00 "," 96,00 "," 182,00 ",25
+72,Costco de M?xico,Comercio autoservicio,H,Estados Unidos," 60†000,00 ", nd , nd , nd , nd ," 11†000,00 "," 69,00 ", nd ,-3
+73,Archer Daniels Midland M?xico (ADM),Agroindustria,H,Estados Unidos," 595†172,00 ", nd , nd , nd , nd ," 400,00 "," 77,00 ", nd ,4
+74,Cin?polis,Entretenimiento,H,M?xico," 59†000,00 ", nd , nd , nd , nd ," 33†000,00 "," 118,00 ", nd ,44
+75,Grupo Desc,Holding,H,M?xico," 58†758,00 "," 2†789,00 ", nd ," 65†149,00 "," 45†331,00 "," 24†348,00 "," 80,00 "," 141,00 ",5
+76,Grupo Empresarial ?ngeles,Holding,H,M?xico," 58†000,00 ", nd , nd , nd , nd ," 30†000,00 "," 75,00 ", nd ,-1
+77,Grupo Financiero Scotiabank Inverlat,Servicios financieros,H,Canad?," 56†072,00 "," 10†373,00 "," 13†459,00 "," 669†559,00 "," 597†550,00 "," 9†983,00 "," 65,00 "," 144,00 ",-12
+78,AT&T M?xico,Telecomunicaciones,M,Estados Unidos," 55†682,00 "," 1†926,00 ","-1†588,00 ", nd , nd ," 17†114,00 "," 70,00 ", nd ,-8
+79,Grupo Simec,Siderurgia y metalurgia,H,M?xico," 55†622,00 "," 94†442,00 "," 135†321,00 "," 573†426,00 "," 155†425,00 "," 5†331,00 "," 102,00 "," 226,00 ",23
+80,Fresnillo PLC,Miner?a,H,M?xico," 548†332,00 "," 85†444,00 "," 135†249,00 "," 1†180†243,00 "," 402†072,00 "," 6†668,00 "," 74,00 "," 11,00 ",-6
+81,Alsea,Restaurantes,H,M?xico," 533†795,00 "," 7†485,00 "," 41†329,00 "," 829†776,00 "," 743†035,00 "," 69†711,00 "," 99,00 "," 86,00 ",18
+82,Grupo Sanborns,Comercio departamental,H,M?xico," 529†394,00 "," 18†186,00 "," 26†832,00 "," 551†746,00 "," 199†489,00 "," 42†187,00 "," 97,00 "," 52,00 ",15
+83,Grupo Proeza,Holding,H,M?xico," 52†546,00 ", nd , nd , nd , nd ," 13†356,00 "," 78,00 ", nd ,-5
+84,Grupo M?xico Divisi?n Transportes,Log?stica y transporte,H,M?xico," 511†729,00 "," 75†739,00 "," 157†993,00 "," 1†189†334,00 "," 556†737,00 "," 10†591,00 "," 82,00 "," 12,00 ",-2
+85,Banobras,Servicios financieros,H,M?xico," 50†141,00 "," 2†340,00 ","-3†254,00 "," 943†852,00 "," 864†304,00 "," 1†000,00 "," 64,00 "," 29,00 ",-21
+86,Lear Corporation M?xico,Automotriz y autopartes,H,Estados Unidos," 500†196,00 ", nd , nd ," 141†528,00 ", nd , nd ," 72,00 ", nd ,-14
+87,Casa Ley,Comercio autoservicio,H,M?xico," 49†000,00 ", nd , nd , nd , nd ," 25†000,00 "," 85,00 ", nd ,-2
+88,Grupo Envases Universales,Vidrio y envases,M,M?xico," 49†000,00 ", nd , nd , nd , nd ," 8†000,00 "," 90,00 ", nd ,2
+89,Union Pacific de M?xico,Log?stica y transporte,H,Estados Unidos," 486†848,00 ", nd , nd , nd , nd , nd ," 84,00 ", nd ,-5
+90,Televisa Telecomunicaciones,Telecomunicaciones,H,M?xico," 480†209,00 ", nd ," 20†285,00 ", nd , nd , nd ," 83,00 ", nd ,-7
+91,P&G M?xico,Productos de consumo,H,Estados Unidos," 48†000,00 ", nd , nd , nd , nd ," 6†738,00 "," 87,00 ", nd ,-4
+92,ArcelorMittal M?xico,Siderurgia y metalurgia,H,Luxemburgo," 477†923,00 ", nd , nd , nd , nd ," 6†263,00 "," 101,00 ", nd ,9
+93,Farmacias del Ahorro,Comercio de medicamentos,H,M?xico," 47†000,00 ", nd , nd , nd , nd ," 25†000,00 "," 94,00 ", nd ,1
+94,Kimberly-Clark de M?xico,Productos de consumo,H,M?xico/Estados Unidos," 46†894,00 "," 44†939,00 "," 83†497,00 "," 48†784,00 "," 430†604,00 "," 10†311,00 "," 79,00 "," 785,00 ",-15
+95,Seguros BBVA Bancomer,Seguros y fianzas,H,Espa?a," 466†836,00 "," 41†641,00 "," 55†495,00 "," 1†625†925,00 "," 149†652,00 ", nd ," 81,00 "," 322,00 ",-14
+96,Adient M?xico,Automotriz y autopartes,H,Irlanda," 464†906,00 ", nd , nd ," 35†632,00 ", nd , nd ," 89,00 ", nd ,-7
+97,Altos Hornos de M?xico,Siderurgia y metalurgia,H,M?xico," 455†749,00 ","-5†633,00 "," 51†449,00 "," 471†667,00 "," 577†618,00 "," 15†024,00 "," 132,00 ", nd ,35
+98,Grupo Aerom?xico,Aerol?neas,H,M?xico," 45†461,00 ","-187†816,00 ","-13†159,00 "," 86†848,00 "," 1†413†543,00 "," 12†893,00 "," 121,00 ", nd ,23
+99,AXA Seguros,Seguros y fianzas,H,Francia," 45†410,00 "," 1†185,00 ","-2†251,00 "," 88†540,00 "," 74†177,00 "," 3†985,00 "," 92,00 "," 83,00 ",-7
+100,The Home Depot M?xico,Comercio especializado,H,Estados Unidos," 45†066,00 ", nd , nd , nd , nd ," 19†000,00 "," 88,00 ", nd ,-12
+101,H-E-B M?xico,Comercio autoservicio,H,Estados Unidos," 45†000,00 ", nd , nd , nd , nd ," 17†000,00 "," 91,00 ", nd ,-10
+102,Volaris,Aerol?neas,H,M?xico," 446†621,00 "," 21†206,00 "," 80†663,00 "," 82†103,00 "," 755†709,00 "," 6†714,00 "," 149,00 "," 325,00 ",47
+103,Grupo Condumex,Equipo el?ctrico,H,M?xico," 44†259,00 "," 5†408,00 "," 5†971,00 ", nd , nd , nd ," 109,00 ", nd ,6
+104,Viakable,Equipo el?ctrico,H,M?xico," 442†203,00 ", nd , nd , nd , nd ," 3†748,00 "," 114,00 ", nd ,10
+105,Valeo M?xico,Automotriz y autopartes,H,Francia," 433†469,00 ", nd , nd , nd , nd ," 11†500,00 "," 93,00 ", nd ,-12
+106,Grupo ?ngeles Servicios de Salud,Servicios de salud,H,M?xico," 42†000,00 ", nd , nd , nd , nd ," 20†000,00 "," 105,00 ", nd ,-1
+107,American Axle Manufacturing de M?xico,Automotriz y autopartes,H,Estados Unidos," 417†655,00 ", nd , nd ," 181†739,00 ", nd , nd ," 98,00 ", nd ,-9
+108,Naturgy M?xico,Energ?a,H,Espa?a," 41†423,00 "," 5†007,00 "," 10†094,00 "," 61†966,00 "," 52†891,00 "," 778,00 "," 125,00 "," 552,00 ",17
+109,Caminos y Puentes Federales (Capufe),Servicios p?blicos,H,M?xico," 403†752,00 ", nd , nd , nd , nd ," 4†500,00 "," 111,00 ", nd ,2
+110,Bio PAPPEL,Papel y cart?n,H,M?xico," 401†081,00 ", nd , nd , nd , nd ," 12†479,00 "," 115,00 ", nd ,5
+111,FEMSA Combustibles,Petr?leo y gas,H,M?xico," 39†922,00 ", nd ," 1†416,00 ", nd , nd , nd ," 107,00 ", nd ,-4
+112,Vitro,Vidrio y envases,H,M?xico," 397†099,00 ","-21†624,00 ","-1†804,00 "," 519†642,00 "," 273†993,00 "," 14†598,00 "," 100,00 ","-88,00 ",-12
+113,Jose Cuervo,Bebidas alcoh?licas y tabaco,H,M?xico," 394†194,00 "," 50†197,00 "," 71†212,00 "," 955†396,00 "," 370†962,00 "," 8†422,00 "," 104,00 "," 86,00 ",-9
+114,Sanmina-SCI de M?xico,Electr?nica,H,Estados Unidos," 38†748,00 ", nd , nd , nd , nd ," 12†000,00 "," 86,00 ", nd ,-28
+115,Qu?litas Controladora,Seguros y fianzas,H,M?xico," 38†224,00 "," 3†778,00 "," 2†491,00 "," 718†881,00 "," 515†094,00 "," 5†014,00 "," 103,00 "," 185,00 ",-12
+116,IEnova M?xico,Energ?a,H,Estados Unidos," 37†327,00 "," 7†887,00 "," 17†486,00 "," 223†204,00 "," 108†945,00 "," 2†176,00 "," 126,00 "," 69,00 ",10
+117,Grupo Palacio de Hierro,Comercio departamental,H,M?xico," 372†153,00 "," 10†403,00 "," 19†356,00 "," 442†927,00 "," 216†099,00 "," 10†162,00 "," 130,00 "," 46,00 ",13
+118,Johnson Controls M?xico,Automotriz y autopartes,H,Estados Unidos," 37†000,00 ", nd , nd , nd , nd ," 11†000,00 "," 106,00 ", nd ,-12
+119,Kenworth Mexicana,Armadora,H,Estados Unidos," 36†985,00 ", nd , nd , nd , nd ," 2†750,00 "," 108,00 ", nd ,-11
+120,Televisa Contenidos,Medios de comunicaci?n,H,M?xico," 359†419,00 ", nd ," 13†779,00 ", nd , nd , nd ," 112,00 ", nd ,-8
+121,BorgWarner M?xico,Automotriz y autopartes,H,Estados Unidos," 352†154,00 ", nd , nd ," 127†489,00 ", nd , nd ," 148,00 ", nd ,27
+122,Pilgrim's Pride M?xico,Alimentos y bebidas,H,Estados Unidos," 350†657,00 ", nd ," 46†383,00 "," 236†754,00 ", nd , nd ," 122,00 ", nd ,0
+123,Seguros Monterrey New York Life,Seguros y fianzas,H,Estados Unidos," 345†315,00 "," 24†296,00 ","-41†885,00 "," 142†274,00 "," 1†268†978,00 "," 1†500,00 "," 110,00 "," 158,00 ",-13
+124,Mondel?z M?xico,Alimentos y bebidas,H,Estados Unidos," 34†008,00 ", nd ," 2†092,00 ", nd , nd ," 8†000,00 "," 119,00 ", nd ,-5
+125,A.P. Moller Maersk M?xico,Log?stica y transporte,H,Dinamarca," 326†594,00 ", nd , nd , nd , nd , nd ," 137,00 ", nd ,12
+126,INTERprotecci?n,Seguros y fianzas,H,M?xico," 32†239,00 ", nd , nd , nd , nd ," 832,00 "," 120,00 ", nd ,-6
+127,LyondellBasell de M?xico,Qu?mica y petroqu?mica,H,Estados Unidos/Reino Unido," 318†886,00 ", nd , nd ," 62†619,00 ", nd , nd ," 135,00 ", nd ,8
+128,Grupo Profuturo,Servicios financieros,H,M?xico," 310†125,00 "," 31†418,00 "," 4†012,00 "," 999†041,00 "," 881†995,00 "," 5†562,00 "," 162,00 "," 268,00 ",34
+129,MAPFRE M?xico,Seguros y fianzas,H,Espa?a," 30†989,00 "," 497,00 ","-224,00 "," 50†126,00 "," 46†749,00 "," 1†402,00 "," 175,00 "," 147,00 ",46
+130,Hyundai Motor de M?xico,Armadora,M,Corea," 30†000,00 ", nd , nd , nd , nd , nd ," 124,00 ", nd ,-6
+131,Aeropuertos y Servicios Auxiliares,Servicios aeroportuarios,H,M?xico," 296†826,00 "," 6†456,00 "," 18†697,00 "," 16†661,00 "," 62†574,00 "," 2†500,00 "," 187,00 "," 62,00 ",56
+132,La Comer,Comercio autoservicio,H,M?xico," 289†063,00 "," 15†431,00 "," 18†085,00 "," 32†996,00 "," 7†563,00 "," 14†532,00 "," 127,00 "," 61,00 ",-5
+133,Grupo Gigante,Holding,H,M?xico," 288†186,00 "," 17†847,00 "," 31†918,00 "," 482†897,00 "," 259†566,00 "," 19†865,00 "," 133,00 "," 8,00 ",0
+134,Zurich M?xico,Seguros y fianzas,H,Suiza," 285†618,00 ", nd , nd ," 15†667,00 "," 13†692,00 "," 1†238,00 "," 143,00 ", nd ,9
+135,Afirme Grupo Financiero,Servicios financieros,H,M?xico," 28†339,00 "," 1†327,00 "," 1†206,00 "," 291†156,00 "," 278†789,00 "," 4†305,00 "," 136,00 "," 107,00 ",1
+136,AMResorts,Hoteler?a y turismo,H,Estados Unidos," 28†135,00 ", nd ," 9†966,00 ", nd , nd ," 11†063,00 "," 181,00 ", nd ,45
+137,Totalplay,Telecomunicaciones,H,M?xico," 280†888,00 ", nd , nd , nd , nd ," 20†000,00 "," 164,00 ", nd ,27
+138,Seguros Banorte,Seguros y fianzas,No aplica,M?xico," 277†871,00 "," 4†060,00 "," 48†004,00 "," 627†138,00 "," 402†459,00 ", nd ," 128,00 "," 181,00 ",-10
+139,Kansas City Southern de M?xico,Log?stica y transporte,H,Estados Unidos," 27†724,00 ", nd , nd ," 70†905,00 ", nd , nd ," 129,00 ", nd ,-10
+140,Telef?nica Movistar,Telecomunicaciones,H,Espa?a," 27†349,00 ","-10†055,00 "," 1†881,00 "," 25†445,00 "," 22†805,00 "," 1†958,00 "," 117,00 ","-3†809,00 ",-23
+141,Grupo Lamosa,Materiales y herramientas,H,M?xico," 271†868,00 "," 34†291,00 "," 64†358,00 "," 32†312,00 "," 189†538,00 "," 9†737,00 "," 165,00 "," 257,00 ",24
+142,Unilever de M?xico,Productos de consumo,H,Reino Unido/Pa?ses Bajos," 26†406,00 ", nd , nd , nd , nd ," 7†610,00 "," 139,00 ", nd ,-3
+143,Grupo Herdez,Alimentos y bebidas,H,M?xico," 261†532,00 "," 2†078,00 "," 30†066,00 "," 35†969,00 "," 185†462,00 "," 10†342,00 "," 141,00 "," 119,00 ",-2
+144,CICSA,Construcci?n,H,M?xico," 25†472,00 "," 405,00 "," 1†078,00 ", nd , nd , nd ," 138,00 ", nd ,-6
+145,Elementia,Cemento,H,M?xico," 254†177,00 "," 21†747,00 "," 25†455,00 "," 295†839,00 "," 175†852,00 "," 5†429,00 "," 123,00 "," 181,00 ",-22
+146,Grupo Bafar,Alimentos y bebidas,H,M?xico," 25†235,00 "," 1†983,00 "," 2†715,00 "," 24†607,00 "," 14†544,00 "," 13†369,00 "," 158,00 "," 197,00 ",12
+147,Grupo Petroil,Petr?leo y Gas,H,M?xico," 25†102,00 ", nd , nd , nd , nd ," 1†939,00 "," 199,00 ", nd ,52
+148,Johnson & Johnson M?xico,Productos de consumo,H,Estados Unidos," 25†000,00 ", nd , nd , nd , nd , nd ," 145,00 ", nd ,-3
+149,Gentera,Servicios financieros,H,M?xico," 24†889,00 "," 2†347,00 "," 3†831,00 "," 70†272,00 "," 45†438,00 "," 20†211,00 "," 156,00 "," 95,00 ",7
+150,Fovissste,Servicios financieros,H,M?xico," 248†319,00 "," 86†653,00 "," 151†977,00 "," 2†338†082,00 "," 2†251†429,00 "," 880,00 "," 131,00 "," 100,00 ",-19
+151,Holcim M?xico,Cemento,H,Francia/Suiza," 247†419,00 ", nd , nd ," 11†475,00 ", nd ," 3†200,00 "," 159,00 ", nd ,8
+152,Nafin,Servicios financieros,H,M?xico," 24†642,00 ","-6†565,00 ","-4†991,00 "," 499†272,00 "," 459†063,00 "," 880,00 "," 113,00 ","-163,00 ",-39
+153,Megacable Holdings,Telecomunicaciones,H,M?xico," 246†342,00 "," 34†686,00 "," 6†818,00 "," 536†453,00 "," 186†378,00 "," 23†980,00 "," 147,00 "," 99,00 ",-6
+154,Sears M?xico,Comercio departamental,H,M?xico," 243†647,00 ", nd , nd ," 253†312,00 "," 105†585,00 "," 18†800,00 "," 180,00 ", nd ,26
+155,Citibanamex Seguros,Seguros y fianzas,M,Estados Unidos," 243†043,00 "," 10†133,00 "," 15†314,00 "," 1†546†792,00 "," 1†469†568,00 ", nd ," 116,00 "," 131,00 ",-39
+156,Danone de M?xico,Alimentos y bebidas,H,Francia," 24†000,00 ", nd , nd ," 20†000,00 ", nd ," 13†878,00 "," 151,00 ", nd ,-5
+157,Dow Qu?mica Mexicana,Qu?mica y petroqu?mica,H,Estados Unidos," 24†000,00 ", nd , nd , nd , nd ," 239,00 "," 179,00 ", nd ,22
+158,Braskem Idesa SAPI,Qu?mica y petroqu?mica,H,M?xico/Brasil," 23†927,00 ","-1†083,00 "," 9†964,00 "," 82†853,00 "," 101†509,00 "," 923,00 "," 192,00 ", nd ,34
+159,Smurfit Kappa M?xico,Papel y cart?n,H,Irlanda," 237†928,00 ", nd , nd , nd , nd , nd ," 155,00 ", nd ,-4
+160,Mercado Libre de M?xico,Comercio electr?nico (e-commerce),H,Argentina," 237†805,00 ", nd ," 6†797,00 "," 4†437,00 ", nd ," 4†038,00 "," 233,00 ", nd ,73
+161,Ingredion M?xico,Agroindustria,H,Estados Unidos," 23†715,00 ", nd , nd ," 65†484,00 ", nd ," 1†994,00 "," 154,00 ", nd ,-7
+162,Tiendas 3B,Comercio autoservicio,H,M?xico," 23†700,00 ", nd , nd , nd , nd ," 13†900,00 "," 171,00 ", nd ,9
+163,Cooperativa La Cruz Azu,Cemento,H,M?xico," 23†500,00 ", nd , nd , nd , nd ," 2†000,00 "," 153,00 ", nd ,-10
+164,PPG Comex,Qu?mica y petroqu?mica,H,Estados Unidos," 23†300,00 ", nd , nd , nd , nd ," 5†200,00 "," 157,00 ", nd ,-7
+165,Plastic Omnium M?xico,Automotriz y autopartes,H,Francia," 232†871,00 ", nd , nd , nd , nd , nd ," 140,00 ", nd ,-25
+166,Alpura,Alimentos y bebidas,H,M?xico," 22†849,00 ", nd , nd , nd , nd ," 10†671,00 "," 146,00 ", nd ,-20
+167,Prolec,Equipo el?ctrico,H,M?xico," 227†572,00 ", nd , nd , nd , nd ," 7†212,00 "," 169,00 ", nd ,2
+168,GE M?xico,Tecnolog?a diversificada,H,Estados Unidos," 22†700,00 ", nd , nd , nd , nd ," 5†200,00 "," 152,00 ", nd ,-16
+169,Pensiones Banorte,Seguros y fianzas,H,M?xico," 226†495,00 "," 20†068,00 "," 28†759,00 "," 2†085†059,00 "," 2†000†665,00 ", nd ," 205,00 "," 238,00 ",36
+170,Banco del Baj?o,Servicios financieros,H,M?xico," 22†380,00 "," 4†814,00 "," 5†771,00 "," 275†527,00 "," 237†597,00 "," 5†499,00 "," 144,00 "," 127,00 ",-26
+171,Sky,Telecomunicaciones,H,M?xico/Estados Unidos," 220†266,00 ", nd ," 85†042,00 ", nd , nd , nd ," 150,00 ", nd ,-21
+172,Fibra Uno,Servicios inmobiliarios,H,M?xico," 218†687,00 "," 4†010,00 "," 16†540,00 "," 3†166†215,00 "," 1†456†817,00 "," 999,00 "," 167,00 "," 23,00 ",-5
+173,Grupo Autofin M?xico,Holding,H,M?xico," 21†739,00 "," 290,00 "," 2†686,00 "," 92†882,00 "," 22†724,00 "," 6†659,00 "," 142,00 "," 4,00 ",-31
+174,Rassini,Automotriz y autopartes,H,M?xico," 21†500,00 ", nd , nd , nd , nd ," 6†600,00 "," 173,00 ", nd ,-1
+175,Seguros Inbursa,Seguros y fianzas,H,M?xico," 21†421,00 "," 3†536,00 ","-258,00 "," 74†273,00 "," 52†568,00 ", nd ," 163,00 "," 163,00 ",-12
+176,Industrias Martinrea de M?xico,Automotriz y autopartes,H,Canad?," 213†055,00 ", nd , nd ," 114†668,00 ", nd , nd ," 172,00 ", nd ,-4
+177,Grupo Cementos de Chihuahua,Cemento,H,M?xico," 210†725,00 "," 30†804,00 "," 46†976,00 "," 454†827,00 "," 18†655,00 "," 2†888,00 "," 160,00 "," 115,00 ",-17
+178,Mars M?xico,Alimentos y bebidas,H,Estados Unidos," 21†000,00 ", nd , nd , nd , nd ," 4†693,00 "," 161,00 ", nd ,-17
+179,Marzam,Comercio de medicamentos,H,M?xico," 21†000,00 ", nd , nd , nd , nd ," 3†500,00 "," 170,00 ", nd ,-9
+180,Grupo Inditex M?xico,Comercio departamental,H,Espa?a," 21†000,00 ", nd , nd , nd , nd ," 1†398,00 "," 230,00 ", nd ,50
+181,IDEAL,Infraestructura,H,M?xico," 207†587,00 "," 70†742,00 "," 101†574,00 "," 1†125†714,00 "," 602†468,00 "," 3†039,00 "," 216,00 "," 135,00 ",35
+182,Tenneco M?xico,Automotriz y autopartes,H,Estados Unidos," 205†693,00 ", nd , nd ," 49†727,00 ", nd , nd ," 166,00 ", nd ,-16
+183,Qualtia Alimentos,Alimentos y bebidas,H,M?xico," 203†386,00 ", nd , nd , nd , nd ," 15†828,00 "," 190,00 ", nd ,7
+184,Viva Aerobus,Aerol?neas,H,M?xico," 20†270,00 "," 2†036,00 "," 3†485,00 "," 41†334,00 "," 38†586,00 "," 3†294,00 "," 304,00 "," 741,00 ",120
+185,Grupo Industrial Saltillo,Holding,H,M?xico," 202†176,00 "," 3†772,00 "," 7†703,00 "," 247†108,00 "," 120†775,00 "," 6†696,00 "," 196,00 "," 3,00 ",11
+186,Chubb Seguros M?xico,Seguros y fianzas,H,Estados Unidos," 202†093,00 "," 979,00 "," 1†041,00 "," 398†972,00 "," 337†513,00 "," 2†986,00 "," 168,00 "," 159,00 ",-18
+187,Amazon M?xico,Comercio electr?nico (e-commerce),H,Estados Unidos," 20†000,00 ", nd , nd , nd , nd ," 6†000,00 "," 264,00 ", nd ,77
+188,Shell M?xico,Petr?leo y Gas,H,Pa?ses Bajos/Reino Unido," 20†000,00 ", nd , nd , nd , nd ," 166,00 "," 340,00 ", nd ,152
+189,Grupo Vidanta,Hoteler?a y turismo,H,M?xico," 19†200,00 ", nd , nd , nd , nd ," 11†030,00 "," 234,00 ", nd ,45
+190,GAP (Grupo Aeroportuario del Pac?fico),Servicios aeroportuarios,H,M?xico," 190†149,00 "," 6†044,00 "," 10†906,00 "," 553†231,00 "," 348†945,00 "," 1†992,00 "," 235,00 "," 296,00 ",45
+191,Bepensa,Alimentos y bebidas,H,M?xico," 19†000,00 ", nd , nd , nd , nd , nd ," 186,00 ", nd ,-5
+192,Grupo Cuprum,Siderurgia y metalurgia,H,M?xico," 19†000,00 ", nd , nd , nd , nd ," 6†700,00 "," 218,00 ", nd ,26
+193,Softtek,Computaci?n y servicios,M,M?xico," 18†832,00 ", nd , nd , nd , nd ," 15†700,00 "," 182,00 ", nd ,-11
+194,ASUR (Grupo Aeroportuario de Sureste),Servicios aeroportuarios,H,M?xico," 187†847,00 "," 59†837,00 "," 86†577,00 "," 658†307,00 "," 200†607,00 "," 1†555,00 "," 228,00 "," 131,00 ",34
+195,Grupo Surman,Automotriz y autopartes,H,M?xico," 18†579,00 ", nd , nd , nd , nd ," 3†878,00 "," 209,00 ", nd ,14
+196,Cummins M?xico M?xico,Automotriz y autopartes,H,Estados Unidos," 18†500,00 ", nd , nd , nd , nd ," 9†500,00 "," 212,00 ", nd ,16
+197,Navistar International de M?xico,Armadora,H,Estados Unidos," 182†763,00 ", nd , nd , nd , nd , nd ," 239,00 ", nd ,42
+198,Crown Envases M?xico,Vidrio y envases,H,Estados Unidos," 181†757,00 ", nd , nd ," 89†427,00 ", nd , nd ," 203,00 ", nd ,5
+199,Office Depot de M?xico,Comercio especializado,H,M?xico/Estados Unidos," 181†219,00 "," 9†227,00 ", nd ," 15†559,00 ", nd ," 7†793,00 "," 184,00 ", nd ,-15
+200,Conservas La Coste?a,Alimentos y bebidas,H,M?xico," 18†112,00 ", nd , nd , nd , nd ," 4†000,00 "," 176,00 ", nd ,-24
+201,Philip Morris M?xico,Bebidas alcoh?licas y tabaco,H,Estados Unidos," 18†000,00 ", nd , nd , nd , nd ," 2†000,00 "," 183,00 ", nd ,-18
+202,Grupo Jumex,Alimentos y bebidas,H,M?xico," 18†000,00 ", nd , nd , nd , nd ," 5†500,00 "," 191,00 ", nd ,-11
+203,Seguros Atlas,Seguros y fianzas,H,M?xico," 179†559,00 "," 3†716,00 ","-4†803,00 "," 329†687,00 "," 270†542,00 "," 1†320,00 "," 193,00 "," 63,00 ",-10
+204,Bancomext,Servicios financieros,H,M?xico," 174†073,00 ","-24†617,00 ","-30†023,00 "," 4†661†217,00 "," 4†306†797,00 "," 554,00 "," 134,00 ","-69,00 ",-70
+205,Minera Media Luna,Miner?a,H,Canad?," 17†347,00 "," 3†074,00 "," 5†223,00 "," 27†544,00 "," 5†229,00 "," 1†020,00 "," 189,00 "," 138,00 ",-16
+206,Bayer de M?xico,Servicios de salud,H,Alemania," 17†289,00 "," 2†831,00 "," 1†231,00 ", nd , nd ," 5†007,00 "," 188,00 ", nd ,-18
+207,Grupo Traxi?n,Log?stica y transporte,H,M?xico," 17†086,00 "," 864,00 "," 1†918,00 "," 221†565,00 "," 108†661,00 "," 17†478,00 "," 207,00 "," 77,00 ",0
+208,Banregio,Servicios financieros,H,M?xico," 169†664,00 "," 35†565,00 "," 47†447,00 "," 1†675†361,00 "," 1†431†272,00 "," 5†389,00 "," 174,00 "," 146,00 ",-34
+209,Empresas Cablevisi?n,Telecomunicaciones,H,M?xico," 168†492,00 "," 14†195,00 "," 20†689,00 "," 305†976,00 "," 99†085,00 "," 7†729,00 "," 197,00 "," 69,00 ",-12
+210,Allianz M?xico,Seguros y fianzas,H,Alemania," 16†637,00 "," 4†653,00 ","-40†694,00 "," 605†558,00 "," 56†059,00 "," 450,00 "," 177,00 "," 103,00 ",-33
+211,Brookfield Business Partners M?xico,Servicios financieros,H,Canad?," 164†795,00 ", nd , nd ," 490†975,00 ", nd , nd ," 194,00 ", nd ,-17
+212,Henkel Mexicana,Productos de consumo,H,Alemania," 16†237,00 ", nd , nd , nd , nd ," 4†000,00 "," 202,00 ", nd ,-10
+213,Mazda Motor de M?xico,Armadora,H,Jap?n," 16†174,00 "," 1†338,00 "," 366,00 "," 3†158,00 "," 6†200,00 "," 77,00 "," 201,00 ", nd ,-12
+214,Grupo Axo,Comercio departamental,H,M?xico," 161†107,00 "," 1†757,00 "," 13†961,00 "," 218†252,00 "," 152†323,00 "," 7†020,00 "," 225,00 "," 27,00 ",11
+215,Nexteer Automotive M?xico,Automotriz y autopartes,H,Estados Unidos," 160†875,00 ", nd , nd ," 56†839,00 ", nd , nd ," 185,00 ", nd ,-30
+216,Tiendas Neto,Comercio autoservicio,H,M?xico," 16†000,00 ", nd , nd , nd , nd ," 9†000,00 "," 206,00 ", nd ,-10
+217,Corporaci?n Moctezuma,Cemento,H,Italia/Espa?a," 158†665,00 "," 45†358,00 "," 61†131,00 "," 130†553,00 "," 23†599,00 "," 1†376,00 "," 211,00 "," 424,00 ",-6
+218,Grupo Pinsa,Alimentos y bebidas,H,M?xico," 15†781,00 ", nd , nd , nd , nd ," 6†836,00 "," 204,00 ", nd ,-14
+219,Posco M?xico,Automotriz y autopartes,H,Corea," 15†500,00 ", nd , nd , nd , nd ," 1†000,00 "," 288,00 ", nd ,69
+220,Genomma Lab Internacional,Qu?mica farmac?utica,H,M?xico," 15†459,00 "," 359,00 "," 850,00 "," 21†543,00 "," 114†707,00 "," 1†771,00 "," 213,00 "," 36,00 ",-7
+221,Casa de Bolsa Banorte Ixe,Servicios financieros,-,M?xico," 15†364,00 "," 1†229,00 "," 1†655,00 "," 296†169,00 "," 290†077,00 ", nd ," 210,00 "," 202,00 ",-11
+222,Siemens M?xico,Tecnolog?a diversificada,H,Alemania," 15†000,00 ", nd , nd , nd , nd ," 4†500,00 "," 224,00 ", nd ,2
+223,Superior Industries de M?xico,Automotriz y autopartes,H,Estados Unidos," 14†945,00 ", nd , nd ," 4†200,00 ", nd ," 2†750,00 "," 245,00 ", nd ,22
+224,Profuturo Pensiones,Seguros y fianzas,H,M?xico," 149†085,00 "," 614,00 ","-76†197,00 "," 857†979,00 "," 83†867,00 ", nd ," 308,00 "," 318,00 ",84
+225,Diconsa,Comercio autoservicio,H,M?xico," 148†568,00 "," 13†623,00 ","-28†876,00 "," 80†624,00 "," 62†078,00 "," 4†000,00 "," 226,00 "," 735,00 ",1
+226,BanCoppel,Servicios financieros,H,M?xico," 14†800,00 "," 1†542,00 "," 2†185,00 "," 117†326,00 "," 103†464,00 "," 15†078,00 "," 200,00 "," 111,00 ",-26
+227,Farmacias Benavides,Comercio de medicamentos,H,Estados Unidos," 147†465,00 "," 314,00 "," 5†165,00 "," 67†771,00 "," 67†962,00 "," 7†701,00 "," 214,00 ", nd ,-13
+228,Zurich Santander Seguros M?xico,Seguros y fianzas,H,Suiza/Espa?a," 147†426,00 "," 20†279,00 "," 17†021,00 "," 206†127,00 "," 176†527,00 ", nd ," 240,00 "," 685,00 ",12
+229,Sanofi M?xico,Qu?mica farmac?utica,H,Francia," 14†675,00 "," 562,00 "," 529,00 "," 33†552,00 "," 23†353,00 "," 1†560,00 "," 208,00 "," 55,00 ",-21
+230,Avon Cosmetics M?xico,Productos de consumo,H,Brasil," 145†966,00 ", nd , nd ," 133†719,00 ", nd ," 6†300,00 "," 221,00 ", nd ,-9
+231,Essity M?xico,Productos de consumo,H,Suecia," 144†738,00 ", nd , nd , nd , nd ," 3†570,00 "," 220,00 ", nd ,-11
+232,Grupo La Moderna,Alimentos y bebidas,H,M?xico," 14†400,00 ", nd , nd , nd , nd ," 6†000,00 "," 223,00 ", nd ,-9
+233,3M M?xico,Tecnolog?a diversificada,H,Estados Unidos," 14†300,00 ", nd , nd , nd , nd ," 10†000,00 "," 219,00 ", nd ,-14
+234,Sociedad Hipotecaria Federal,Servicios financieros,H,M?xico," 14†299,00 "," 1†174,00 "," 1†176,00 "," 133†673,00 "," 107†853,00 "," 420,00 "," 178,00 "," 45,00 ",-56
+235,NR Finance M?xico,Servicios financieros,H,M?xico," 14†281,00 "," 5†217,00 "," 6†486,00 "," 82†889,00 "," 57†295,00 "," 1†500,00 "," 198,00 "," 204,00 ",-37
+236,Ishop & Mixup,Comercio especializado,H,M?xico," 141†058,00 ", nd , nd ," 44†802,00 "," 35†507,00 "," 2†750,00 "," 256,00 ", nd ,20
+237,Almidones Mexicanos,Agroindustria,-,Reino Unido," 14†064,00 "," 1†152,00 "," 1†560,00 "," 59†517,00 "," 29†875,00 "," 400,00 "," 195,00 "," 389,00 ",-42
+238,Grupo Hermes,Holding,H,M?xico," 13†825,00 "," 1†147,00 "," 2†260,00 "," 30†998,00 "," 23†947,00 "," 5†363,00 "," 215,00 "," 163,00 ",-23
+239,Monex SAB,Servicios financieros,H,M?xico," 135†365,00 "," 1†654,00 "," 2†184,00 "," 183†826,00 "," 171†393,00 "," 2†636,00 "," 222,00 "," 133,00 ",-17
+240,ALPLA M?xico,Qu?mica y petroqu?mica,H,Austria," 13†508,00 ", nd , nd , nd , nd ," 2†700,00 "," 263,00 ", nd ,23
+241,Grupo Kaltex,Productos de consumo,H,M?xico," 133†652,00 ", nd , nd , nd , nd , nd ," 217,00 ", nd ,-24
+242,Cr?dito Real,Servicios financieros,H,M?xico," 132†916,00 "," 1†268,00 "," 336,00 "," 734†522,00 "," 559†956,00 "," 660,00 "," 229,00 "," 7,00 ",-13
+243,The Chemours Company Mexicana,Qu?mica y petroqu?mica,M,Estados Unidos," 13†283,00 ", nd , nd , nd , nd ," 512,00 "," 252,00 ", nd ,9
+244,Vista Oil & Gas,Petr?leo y gas,H,M?xico," 132†298,00 "," 10†275,00 "," 42†711,00 "," 344†561,00 "," 228†887,00 "," 397,00 "," 359,00 "," 89,00 ",115
+245,Newmont Goldcorp de M?xico,Miner?a,H,Estados Unidos," 130†232,00 ", nd ," 198†593,00 "," 134†263,00 ", nd ," 7†400,00 "," 356,00 ", nd ,111
+246,Grupo Omnilife,Productos de consumo,H,M?xico," 13†000,00 ", nd , nd , nd , nd ," 3†300,00 "," 227,00 ", nd ,-19
+247,TV Azteca,Medios de comunicaci?n,H,M?xico," 128†762,00 "," 3†528,00 "," 2†960,00 "," 28†444,00 "," 26†779,00 "," 2†017,00 "," 258,00 "," 212,00 ",11
+248,Minera Frisco,Miner?a,H,M?xico," 128†439,00 ","-17†547,00 "," 14†456,00 "," 417†321,00 "," 306†787,00 "," 4†310,00 "," 270,00 ","-159,00 ",22
+249,Grupo Collado,Siderurgia y metalurgia,H,M?xico," 127†243,00 "," 8†953,00 "," 1†457,00 "," 77†071,00 "," 54†234,00 "," 2†634,00 "," 311,00 "," 392,00 ",62
+250,Volkswagen Financial Services,Servicios financieros,H,Alemania," 126†966,00 "," 24†075,00 "," 31†251,00 "," 399†391,00 "," 271†733,00 "," 243,00 "," 238,00 "," 189,00 ",-12
+251,Emerson Electric de M?xico,Electr?nica,H,Estados Unidos," 12†500,00 ", nd , nd , nd , nd , nd ," 253,00 ", nd ,2
+252,Linde M?xico,Qu?mica y petroqu?mica,H,Reino Unido," 124†929,00 ", nd , nd , nd , nd ," 3†000,00 "," 237,00 ", nd ,-15
+253,Aeropuerto Internacional de la CDMX,Servicios aeroportuarios,H,M?xico," 124†638,00 ","-15†406,00 "," 59†357,00 "," 93†712,00 "," 49†718,00 "," 200,00 "," 294,00 ","-35,00 ",41
+254,Pinfra,Infraestructura,H,M?xico," 124†286,00 "," 56†142,00 "," 71†863,00 "," 766†805,00 "," 211†857,00 "," 2†991,00 "," 279,00 "," 101,00 ",25
+255,Interceramic,Materiales y herramientas,H,M?xico," 124†181,00 "," 3†142,00 "," 10†727,00 "," 113†865,00 "," 77†384,00 "," 5†860,00 "," 254,00 "," 86,00 ",-1
+256,TPI Composites M?xico,Tecnolog?a diversificada,H,Estados Unidos," 123†355,00 ", nd ,"-1†505,00 "," 54†625,00 ", nd ," 6†300,00 "," 259,00 ", nd ,3
+257,Grupo GP,Construcci?n,H,M?xico," 12†264,00 "," 1†289,00 "," 1†685,00 "," 27†035,00 "," 11†222,00 "," 5†297,00 "," 293,00 "," 82,00 ",36
+258,Grupo Altex,Agroindustria,H,M?xico," 12†200,00 ", nd , nd , nd , nd ," 10†000,00 "," 276,00 ", nd ,18
+259,Grupo Premier,Automotriz y autopartes,H,M?xico," 12†038,00 ", nd , nd , nd , nd ," 1†938,00 "," 267,00 ", nd ,8
+260,Cooper-Standard Automotive de M?xico,Automotriz y autopartes,H,Estados Unidos," 120†247,00 ", nd , nd ," 28†574,00 ", nd , nd ," 231,00 ", nd ,-29
+261,Cinemex,Entretenimiento,H,M?xico," 12†000,00 ", nd , nd , nd , nd ," 10†000,00 "," 339,00 ", nd ,78
+262,Banj?rcito,Servicios financieros,H,M?xico," 11†804,00 "," 4†421,00 "," 5†630,00 "," 146†344,00 "," 118†941,00 "," 1†800,00 "," 251,00 "," 161,00 ",-11
+263,Omega CORP,Construcci?n,H,M?xico," 11†753,00 "," 64†051,00 "," 63†392,00 "," 437†232,00 "," 96†993,00 "," 725,00 "," 331,00 "," 188,00 ",68
+264,Unifin Financiera,Servicios financieros,H,M?xico," 11†668,00 "," 1†495,00 "," 2†334,00 "," 93†348,00 "," 80†553,00 "," 828,00 "," 247,00 "," 117,00 ",-17
+265,Bridgestone de M?xico,Automotriz y autopartes,H,Jap?n," 11†500,00 ", nd , nd , nd , nd ," 2†000,00 "," 261,00 ", nd ,-4
+266,Katcon Global,Automotriz y autopartes,H,M?xico," 11†500,00 ", nd , nd , nd , nd ," 2†000,00 "," 262,00 ", nd ,-4
+267,Gestamp Holding M?xico,Automotriz y autopartes,H,Espa?a," 114†144,00 ", nd , nd , nd , nd , nd ," 255,00 ", nd ,-12
+268,First Cash,Servicios financieros,H,Estados Unidos," 114†104,00 ", nd , nd ," 17†322,00 ", nd ," 5†500,00 "," 243,00 ", nd ,-25
+269,Axtel,Telecomunicaciones,H,M?xico," 11†389,00 ","-7†967,00 "," 2†922,00 "," 199†745,00 "," 171†046,00 "," 4†337,00 "," 232,00 ","-278,00 ",-37
+270,Cydsa,Qu?mica y petroqu?mica,H,M?xico," 11†339,00 "," 562,00 "," 1†973,00 "," 29†893,00 "," 19†518,00 "," 1†885,00 "," 257,00 "," 54,00 ",-13
+271,M?xico Proyectos y Desarrollos,Infraestructura,H,M?xico," 113†176,00 "," 355,00 "," 17†935,00 "," 509†484,00 "," 200†823,00 ", nd ," 244,00 "," 12,00 ",-27
+272,Pe?a Verde,Seguros y fianzas,H,M?xico," 112†626,00 "," 4†299,00 ","-8†534,00 "," 289†349,00 "," 240†821,00 "," 987,00 "," 269,00 "," 89,00 ",-3
+273,Evraz NA M?xico,Siderurgia y metalurgia,-,Reino Unido," 111†569,00 ", nd , nd , nd , nd , nd ," 499,00 ", nd ,226
+274,Red de Carreteras de Occidente,Servicios p?blicos,H,M?xico," 11†073,00 "," 2†146,00 "," 8†177,00 "," 65†727,00 "," 60†079,00 "," 1†452,00 "," 274,00 "," 38,00 ",0
+275,Penske M?xico,Log?stica y transporte,H,Estados Unidos," 11†000,00 ", nd , nd , nd , nd ," 3†200,00 "," 281,00 ", nd ,6
+276,ABB M?xico,Tecnolog?a diversificada,H,Suiza/Suecia," 11†000,00 ", nd , nd , nd , nd , nd ," 300,00 ", nd ,24
+277,RUBA Inmobiliaria,Inmobiliario,H,M?xico," 109†898,00 "," 11†886,00 "," 17†275,00 "," 151†759,00 "," 56†247,00 "," 1†250,00 "," 271,00 "," 124,00 ",-6
+278,Laureate Education M?xico,Servicios educativos,H,Estados Unidos," 109†449,00 ", nd , nd ," 42†308,00 ", nd , nd ," 242,00 ", nd ,-36
+279,Invex Controladora,Servicios financieros,H,M?xico," 10†935,00 "," 12†184,00 "," 12†535,00 "," 1†656†098,00 "," 1†541†406,00 "," 911,00 "," 246,00 "," 106,00 ",-33
+280,Aleatica,Infraestructura,H,Australia," 109†279,00 "," 2†029,00 "," 3†370,00 "," 102†479,00 "," 494†771,00 "," 2†984,00 "," 333,00 "," 38,00 ",53
+281,Grupo Pe?afiel,Alimentos y bebidas,H,Estados Unidos," 109†276,00 ", nd , nd , nd , nd ," 4†500,00 "," 283,00 ", nd ,2
+282,Rotoplas,Materiales y herramientas,H,M?xico," 109†145,00 "," 3†284,00 "," 10†644,00 "," 131†124,00 "," 6†557,00 "," 3†380,00 "," 296,00 "," 5,00 ",14
+283,Grupo Mexicano de Seguros,Seguros y fianzas,H,M?xico," 108†502,00 "," 7†285,00 "," 7†176,00 "," 166†877,00 "," 136†476,00 "," 350,00 "," 295,00 "," 24,00 ",12
+284,Roche M?xico,Qu?mica farmac?utica,H,Suiza," 10†675,00 "," 497,00 "," 883,00 "," 8†044,00 "," 4†161,00 "," 506,00 "," 306,00 "," 128,00 ",22
+285,Circle K M?xico,Comercio autoservicio,H,Estados Unidos," 106†566,00 "," 3†691,00 "," 8†169,00 "," 54†638,00 "," 46†611,00 "," 1†124,00 "," 285,00 "," 46,00 ",0
+286,American Tower M?xico,Telecomunicaciones,H,Estados Unidos," 106†417,00 ", nd , nd ," 272†394,00 ", nd , nd ," 265,00 ", nd ,-21
+287,Absormex CMPC Tissue,Productos de consumo,H,Chile," 10†546,00 ", nd , nd ," 57†953,00 ", nd ," 2†000,00 "," 282,00 ", nd ,-5
+288,Grupo Accel,Log?stica y transporte,H,M?xico," 10†402,00 "," 3†304,00 "," 738,00 "," 103†861,00 "," 45†192,00 "," 4†019,00 "," 275,00 "," 56,00 ",-13
+289,L'Or?al M?xico,Productos de consumo,H,Francia," 10†339,00 ", nd , nd , nd , nd ," 2†223,00 "," 301,00 ", nd ,12
+290,Kentucky Fried Chicken,Restaurantes,H,Estados Unidos," 10†267,00 ", nd , nd , nd , nd , nd ," 316,00 ", nd ,26
+291,Seguros Afirme,Seguros y fianzas,H,M?xico," 101†993,00 "," 1†815,00 ","-245,00 "," 110†456,00 "," 9†607,00 "," 770,00 "," 248,00 "," 126,00 ",-43
+292,Herbalife Internacional de M?xico,Productos de consumo,H,Estados Unidos," 10†138,00 "," 457,00 "," 584,00 "," 4†508,00 "," 1†686,00 "," 2†158,00 "," 284,00 "," 162,00 ",-8
+293,Intercam Grupo Financiero,Servicios financieros,H,M?xico," 10†112,00 "," 1†119,00 "," 1†561,00 "," 82†117,00 "," 77†332,00 "," 2†373,00 "," 302,00 "," 234,00 ",9
+294,Grupo Financiero Ve por M?s,Servicios financieros,H,M?xico," 10†086,00 "," 632,00 "," 713,00 "," 94†386,00 "," 86†789,00 "," 1†500,00 "," 266,00 "," 83,00 ",-28
+295,AES M?xico,Energ?a,H,Estados Unidos," 10†071,00 "," 341,00 "," 19†164,00 "," 29†769,00 "," 18†404,00 "," 216,00 "," 313,00 "," 3,00 ",18
+296,GM Financial de M?xico,Servicios financieros,H,Estados Unidos," 100†505,00 "," 23†138,00 "," 29†512,00 "," 572†917,00 "," 439†742,00 "," 400,00 "," 249,00 "," 174,00 ",-47
+297,Betterware de M?xico,Comercio especializado,H,M?xico," 100†397,00 "," 18†268,00 "," 27†166,00 "," 53†852,00 "," 40†568,00 "," 1†500,00 "," 321,00 "," 1†375,00 ",24
+298,British American Tobacco M?xico,Bebidas alcoh?licas y tabaco,H,Reino Unido," 10†000,00 ", nd , nd , nd , nd ," 2†300,00 "," 280,00 ", nd ,-18
+299,Kellogg Company M?xico,Alimentos y bebidas,H,Estados Unidos," 10†000,00 ", nd , nd , nd , nd ," 3†000,00 "," 278,00 ", nd ,-21
+300,BMW de M?xico,Armadora,M,Alemania," 10†000,00 ", nd , nd , nd , nd ," 3†225,00 "," 297,00 ", nd ,-3
+301,The Andersons M?xico,Agroindustria,H,Estados Unidos," 99†534,00 ", nd , nd , nd , nd , nd ," 385,00 ", nd ,84
+302,SAP M?xico,Computaci?n y servicios,H,Alemania," 9†944,00 "," 634,00 "," 925,00 "," 7†201,00 "," 4†626,00 "," 1†036,00 "," 272,00 "," 246,00 ",-30
+303,Pensiones BBVA Bancomer,Seguros y fianzas,-,Espa?a," 98†228,00 "," 1†580,00 "," 21†512,00 "," 135†242,00 "," 1†280†003,00 ", nd ," 334,00 "," 218,00 ",31
+304,Corporaci?n Actinver,Servicios financieros,H,M?xico," 98†111,00 "," 8†672,00 "," 11†931,00 "," 910†165,00 "," 839†866,00 "," 2†067,00 "," 250,00 "," 123,00 ",-54
+305,TC Energy M?xico,Energ?a,H,Canad?," 97†906,00 ", nd , nd ," 963†735,00 ", nd , nd ," 241,00 ", nd ,-64
+306,Corporaci?n First Majestic,Miner?a,H,Canad?," 96†255,00 ", nd ," 30†132,00 "," 22†164,00 "," 51†889,00 ", nd ," 312,00 ", nd ,6
+307,Pan American Silver Corp.,Miner?a,H,Canad?," 95†882,00 ", nd ," 17†098,00 "," 214†718,00 ", nd , nd ," 307,00 ", nd ,0
+308,Coconal,Infraestructura,H,M?xico," 9†448,00 "," 1†912,00 "," 2†789,00 "," 24†423,00 "," 19†876,00 "," 3†493,00 "," 320,00 "," 42,00 ",12
+309,Pron?sticos para la Asistencia P?blica,Juegos y sorteos,H,M?xico," 93†958,00 ", -   ," 67†363,00 "," 2†052,00 "," 16†136,00 "," 550,00 "," 357,00 ", -   ,48
+310,American Express Bank M?xico,Servicios financieros,H,Estados Unidos," 9†334,00 "," 4†859,00 "," 6†950,00 "," 11†880,00 "," 2†638,00 "," 1†780,00 "," 326,00 "," 526,00 ",16
+311,Arcos Dorados M?xico,Restaurantes,H,Argentina," 9†244,00 ", nd , nd , nd , nd ," 8†307,00 "," 473,00 ", nd ,162
+312,Arauco Industrias M?xico,Materiales y herramientas,H,Chile," 92†335,00 ", nd , nd ," 26†015,00 ", nd ," 760,00 "," 329,00 ", nd ,17
+313,Pfizer M?xico,Qu?mica farmac?utica,M,Estados Unidos," 9†209,00 "," 160,00 "," 479,00 "," 8†297,00 "," 5†725,00 "," 1†399,00 "," 268,00 "," 62,00 ",-45
+314,Compa??a Minera Autl?n,Siderurgia y metalurgia,H,M?xico," 9†129,00 "," 71,00 "," 629,00 "," 166†162,00 "," 95†984,00 "," 2†278,00 "," 317,00 "," 1,00 ",3
+315,Canel's,Dulces y confiter?a,H,M?xico," 91†215,00 ", nd , nd , nd , nd ," 2†700,00 "," 287,00 ", nd ,-28
+316,Christus Muguerza,Servicios de salud,M,M?xico," 9†111,00 "," 1†177,00 "," 1†799,00 "," 8†783,00 "," 3†746,00 "," 7†335,00 "," 341,00 "," 234,00 ",25
+317,Grupo Indi,Construcci?n,H,M?xico," 90†252,00 "," 3†334,00 "," 4†144,00 "," 240†172,00 "," 152†462,00 "," 850,00 "," 299,00 ", nd ,-18
+318,Ferrero de M?xico,Dulces y confiter?a,H,Italia," 8†965,00 "," 688,00 "," 772,00 "," 6†374,00 "," 4†032,00 "," 2†345,00 "," 324,00 "," 294,00 ",6
+319,Grupo Pochteca,Qu?mica y petroqu?mica,H,M?xico," 89†019,00 "," 1†906,00 "," 5†055,00 "," 55†342,00 "," 42†118,00 "," 1†713,00 "," 346,00 "," 144,00 ",27
+320,Suzuki Motor de M?xico,Armadora,H,Jap?n," 8†900,00 ", nd , nd , nd , nd , nd ," 345,00 ", nd ,25
+321,Telesites,Telecomunicaciones,H,M?xico," 88†568,00 "," 404,00 "," 32†028,00 "," 997†829,00 "," 565†353,00 "," 285,00 "," 305,00 "," 1,00 ",-16
+322,Universal Scientific Industrial de M?xico,Electr?nica,H,China," 88†195,00 ", nd , nd ," 185†792,00 "," 74†346,00 ", nd ," 289,00 ", nd ,-33
+323,Reaseguradora Patria,Seguros y fianzas,H,M?xico," 8†801,00 "," 2†522,00 ","-198,00 "," 201†448,00 "," 182†473,00 "," 140,00 "," 290,00 "," 133,00 ",-33
+324,Caja Popular Mexicana,Servicios financieros,M,M?xico," 87†931,00 "," 7†922,00 "," 7†854,00 "," 759†949,00 "," 648†448,00 "," 6†800,00 "," 303,00 "," 71,00 ",-21
+325,OMA (Grupo Aeroportuario del Centro Norte),Servicios aeroportuarios,H,M?xico," 8†720,00 "," 28†573,00 "," 41†104,00 "," 228†891,00 "," 116†509,00 "," 1†045,00 "," 381,00 "," 254,00 ",56
+326,Molymex,Siderurgia y metalurgia,H,Chile," 87†166,00 ", nd ," 2†838,00 "," 4†292,00 "," 24†002,00 "," 350,00 "," 382,00 ", nd ,56
+327,Dulces de la Rosa,Dulces y confiter?a,H,M?xico," 86†958,00 ", nd , nd , nd , nd ," 3†180,00 "," 315,00 ", nd ,-12
+328,HDI Seguros,Seguros y fianzas,H,Alemania," 86†808,00 "," 5†089,00 "," 701,00 "," 175†266,00 "," 150†823,00 "," 1†581,00 "," 309,00 "," 208,00 ",-19
+329,Inmuebles Carso,Inmobiliario,H,M?xico," 85†234,00 "," 4†973,00 "," 61†828,00 "," 846†015,00 "," 185†059,00 "," 968,00 "," 298,00 "," 75,00 ",-31
+330,Servicio Panamericano de Proteccion,Servicios de seguridad,-,Estados Unidos," 84†407,00 ", nd , nd ," 2†693,00 ", nd ," 12†500,00 "," 310,00 ", nd ,-20
+331,Diageo M?xico,Bebidas alcoh?licas y tabaco,H,Reino Unido," 8†400,00 ", nd , nd , nd , nd ," 1†250,00 "," 318,00 ", nd ,-13
+332,Agnico Eagle M?xico,Miner?a,H,Canad?," 82†177,00 ", nd ," 39†571,00 "," 134†952,00 ", nd ," 1†800,00 "," 273,00 ", nd ,-59
+333,Plexus Electronica,Electr?nica,H,Estados Unidos," 81†496,00 ", nd , nd ," 15†509,00 ", nd ," 2†050,00 "," 322,00 ", nd ,-11
+334,Teleperformance M?xico,Servicio al cliente,H,Francia," 8†114,00 ", nd , nd , nd , nd ," 27†741,00 "," 338,00 ", nd ,4
+335,Greenbrier M?xico,Maquinaria y equipo,H,Estados Unidos," 8†000,00 ", nd , nd , nd , nd , nd ," 236,00 ", nd ,-99
+336,Yara M?xico,Agroindustria,H,Noruega," 7†986,00 "," 786,00 "," 1†076,00 "," 4†231,00 "," 2†877,00 "," 493,00 "," 379,00 "," 581,00 ",43
+337,Afore XXI Banorte,Afore,H,M?xico," 78†346,00 "," 39†057,00 "," 47†613,00 "," 281†765,00 "," 21†763,00 ", nd ," 314,00 "," 15,00 ",-23
+338,H&M M?xico,Comercio departamental,H,Suecia," 7†800,00 ", nd , nd , nd , nd ," 1†761,00 "," 355,00 ", nd ,17
+339,Manpower M?xico,Recursos humanos,H,Estados Unidos," 7†783,00 ", nd , nd ," 1†748,00 "," 1†033,00 "," 202†814,00 "," 260,00 ", nd ,-79
+340,Schneider Electric M?xico,Equipo el?ctrico,H,Francia," 7†700,00 ", nd , nd , nd , nd ," 13†552,00 "," 344,00 ", nd ,4
+341,Mitsubishi Motors de M?xico,Armadora,H,Jap?n," 7†600,00 ", nd , nd , nd , nd , nd ," 414,00 ", nd ,73
+342,Javer,Inmobiliario,H,M?xico," 75†095,00 "," 1†459,00 "," 9†792,00 "," 91†025,00 "," 6†733,00 "," 1†475,00 "," 319,00 "," 62,00 ",-23
+343,Grupo Mar?timo Industrial,Alimentos y bebidas,H,M?xico," 7†500,00 ", nd , nd , nd , nd ," 3†000,00 "," 335,00 ", nd ,-8
+344,Concesionaria Mexiquense,Servicios p?blicos,H,Australia," 74†424,00 ","-10†985,00 "," 25†325,00 "," 545†315,00 "," 311†545,00 "," 900,00 "," 429,00 ","-47,00 ",85
+345,Boehringer Ingelheim M?xico,Qu?mica farmac?utica,H,Alemania," 74†166,00 ", nd , nd , nd , nd ," 1†780,00 "," 286,00 ", nd ,-59
+346,CIBanco,Servicios financieros,H,M?xico," 7†413,00 "," 355,00 "," 759,00 "," 80†184,00 "," 75†922,00 "," 2†958,00 "," 323,00 "," 83,00 ",-23
+347,Grupo Posadas,Hoteler?a y turismo,H,M?xico," 74†067,00 "," 63,00 "," 4†551,00 "," 182†445,00 "," 172†322,00 "," 15†684,00 "," 389,00 "," 62,00 ",42
+348,Grupo GIA,Infraestructura,H,M?xico," 7†313,00 "," 483,00 "," 1†205,00 "," 20†110,00 "," 17†372,00 "," 768,00 "," 327,00 "," 176,00 ",-21
+349,Grupo Financiero Multiva,Servicios financieros,H,M?xico," 72†645,00 "," 2†552,00 "," 2†866,00 "," 961†958,00 "," 890†489,00 "," 926,00 "," 291,00 "," 36,00 ",-58
+350,Ryder de M?xico,Log?stica y transporte,H,Estados Unidos," 7†213,00 ", nd , nd ," 3†623,00 ", nd ," 4†286,00 "," 342,00 ", nd ,-8
+351,F?brica de Papel San Francisco,Papel y cart?n,H,M?xico," 7†208,00 ", nd , nd , nd , nd ," 1†841,00 "," 325,00 ", nd ,-26
+352,Grupo Financiero Mifel Controladora,Servicios financieros,H,M?xico," 7†205,00 "," 1†011,00 "," 1†177,00 "," 95†900,00 "," 86†990,00 "," 1†234,00 "," 330,00 "," 113,00 ",-22
+353,Avient de M?xico,Qu?mica y petroqu?mica,H,Estados Unidos," 70†634,00 ", nd , nd ," 1†698,00 ", nd , nd ," 392,00 ", nd ,39
+354,Sandvik Mexicana,Materiales y herramientas,H,Suecia," 70†076,00 ", nd , nd , nd , nd , nd ," 375,00 ", nd ,21
+355,Autotransportes de Carga Tresguerras,Log?stica y transporte,H,M?xico," 69†938,00 ", nd , nd , nd , nd ," 7†504,00 "," 376,00 ", nd ,21
+356,Global HITSS,Computaci?n y servicios,H,M?xico," 6†944,00 "," 289,00 "," 606,00 "," 2†684,00 "," 1†536,00 "," 10†885,00 "," 343,00 "," 252,00 ",-13
+357,J.P. Morgan Grupo Financiero,Servicios financieros,H,Estados Unidos," 6†940,00 "," 2†086,00 "," 2†937,00 "," 152†862,00 "," 129†263,00 "," 456,00 "," 387,00 "," 88,00 ",30
+358,Brembo M?xico,Automotriz y autopartes,H,Italia," 68†986,00 ", nd , nd , nd , nd ," 1†250,00 "," 353,00 ", nd ,-5
+359,Argonaut Gold de M?xico,Miner?a,H,Estados Unidos," 68†681,00 ", nd ," 19†983,00 "," 57†317,00 "," 5†200,00 "," 700,00 "," 363,00 ", nd ,4
+360,Grupo Pueblo Bonito,Hoteler?a y turismo,H,M?xico," 6†761,00 "," 469,00 "," 2†034,00 "," 32†427,00 "," 14†810,00 "," 5†307,00 "," 423,00 "," 27,00 ",63
+361,Grupo Celanese,Qu?mica y petroqu?mica,H,Estados Unidos," 66†942,00 ", nd , nd ," 11†869,00 ", nd ," 419,00 "," 418,00 ", nd ,57
+362,Bank of America M?xico,Servicios financieros,H,Estados Unidos," 6†676,00 "," 730,00 "," 713,00 "," 77†150,00 "," 65†325,00 "," 402,00 "," 292,00 "," 62,00 ",-70
+363,Profuturo Afores,Afore,H,M?xico," 66†375,00 "," 22†259,00 "," 26†205,00 "," 96†937,00 "," 10†992,00 ", nd ," 351,00 "," 259,00 ",-12
+364,Fonacot,Servicios financieros,H,M?xico," 65†988,00 "," 26†753,00 "," 26†753,00 "," 332†251,00 "," 130†094,00 "," 1†480,00 "," 347,00 "," 132,00 ",-17
+365,Citibanamex Afore,Afore,H,Estados Unidos," 65†984,00 "," 30†783,00 "," 32†325,00 "," 92†731,00 "," 7†759,00 ", nd ," 336,00 "," 362,00 ",-29
+366,CompuSoluciones,Computaci?n y servicios,H,M?xico," 6†561,00 "," 244,00 "," 231,00 "," 2†773,00 "," 1†297,00 "," 481,00 "," 383,00 "," 165,00 ",17
+367,Renault M?xico,Armadora,M,Francia," 6†547,00 ", nd ," 110,00 "," 2†718,00 "," 2†718,00 "," 64,00 "," 372,00 ", nd ,5
+368,Grupo Imagen Medios de Comunicaci?n,Medios de comunicaci?n,H,M?xico," 6†500,00 ", nd , nd , nd , nd ," 2†500,00 "," 364,00 ", nd ,-4
+369,Coeur Mining Mexicana,Miner?a,H,Estados Unidos," 64†969,00 "," 11†975,00 "," 17†696,00 "," 60†346,00 ", nd ," 890,00 "," 348,00 ", nd ,-21
+370,HSBC Seguros,Seguros y fianzas,H,Reino Unido," 64†684,00 "," 9†547,00 "," 506,00 "," 115†903,00 "," 88†368,00 ", nd ," 441,00 "," 347,00 ",71
+371,Consorcio ARA,Inmobiliario,H,M?xico," 63†768,00 "," 5†829,00 "," 6†906,00 "," 213†919,00 "," 71†955,00 "," 6†011,00 "," 380,00 "," 41,00 ",9
+372,Novartis M?xico,Qu?mica farmac?utica,H,Suiza," 6†281,00 "," 132,00 "," 315,00 "," 5†190,00 "," 4†305,00 "," 1†889,00 "," 366,00 "," 149,00 ",-6
+373,Ontex M?xico - P.I. Mabe,Productos de consumo,H,B?lgica," 61†701,00 ", nd , nd ," 33†913,00 ", nd ," 3†500,00 "," 352,00 ", nd ,-21
+374,Afore Sura,Afore,H,Colombia," 61†613,00 "," 19†552,00 "," 26†943,00 "," 97†708,00 "," 15†386,00 ", nd ," 365,00 "," 238,00 ",-9
+375,Tupy M?xico,Automotriz y autopartes,H,Brasil," 61†079,00 ", nd , nd ," 42†033,00 ", nd ," 4†000,00 "," 378,00 ", nd ,3
+376,Acciona M?xico,Infraestructura,H,Espa?a," 60†835,00 ", nd , nd ," 394†229,00 ", nd ," 2†000,00 "," 362,00 ", nd ,-14
+377,AstraZeneca,Qu?mica farmac?utica,M,Reino Unido," 6†000,00 ", nd , nd , nd , nd ," 1†350,00 "," 419,00 ", nd ,42
+378,Farmac?uticos Maypo,Qu?mica farmac?utica,H,M?xico," 5†964,00 "," 278,00 "," 381,00 "," 3†868,00 "," 1†773,00 "," 1†921,00 "," 358,00 "," 133,00 ",-20
+379,Seguros Sura,Seguros y fianzas,H,Colombia," 59†003,00 ","-1†398,00 ","-423,00 "," 102†243,00 "," 87†804,00 ", nd ," 384,00 ","-97,00 ",5
+380,Grupo Adecco M?xico,Recursos humanos,H,Suiza," 5†854,00 "," 149,00 "," 2†388,00 "," 9†826,00 "," 658,00 "," 96†834,00 "," 328,00 "," 46,00 ",-52
+381,Daimler M?xico,Armadora,H,Alemania," 57†953,00 "," 8†344,00 "," 8†269,00 "," 30†626,00 "," 21†884,00 "," 3†116,00 "," 277,00 "," 95,00 ",-104
+382,Banco Sabadell M?xico,Servicios financieros,H,Espa?a," 5†790,00 "," 118,00 "," 47,00 "," 119†154,00 "," 104†884,00 "," 893,00 "," 332,00 "," 8,00 ",-50
+383,RLH Properties,Hoteler?a y turismo,H,M?xico," 57†429,00 "," 201,00 "," 16,00 "," 346†432,00 "," 15†870,00 "," 4†011,00 "," 484,00 "," 1,00 ",101
+384,Grupo Minsa,Alimentos y bebidas,M,M?xico," 57†346,00 "," 112,00 "," 1†733,00 "," 42†184,00 "," 18†768,00 "," 2†006,00 "," 390,00 "," 48,00 ",6
+385,CFE Capital,Servicios inmobiliarios,H,M?xico," 57†213,00 "," 56†112,00 "," 56†112,00 "," 262†775,00 ", nd , nd ," 494,00 "," 214,00 ",109
+386,Grupo Financiero BASE,Servicios financieros,H,M?xico," 5†717,00 "," 544,00 "," 724,00 "," 74†445,00 "," 70†620,00 "," 931,00 "," 354,00 "," 142,00 ",-32
+387,Grupo Caliente,Juegos y sorteos,H,M?xico," 5†600,00 ", nd , nd , nd , nd , nd ," 444,00 ", nd ,57
+388,Leggett & Platt de M?xico,Tecnolog?a diversificada,H,Estados Unidos," 55†988,00 ", nd , nd ," 2†844,00 ", nd , nd ," 406,00 ", nd ,18
+389,Atento M?xico,Servicio al cliente,H,Estados Unidos," 5†598,00 ","-151,00 "," 70,00 "," 6†680,00 "," 6†154,00 "," 14†029,00 "," 367,00 ","-287,00 ",-22
+390,SKF de M?xico,Automotriz y autopartes,H,Suecia," 5†500,00 ", nd , nd , nd , nd ," 1†649,00 "," 395,00 ", nd ,5
+391,Hershey's M?xico,Dulces y confiter?a,H,Estados Unidos," 5†500,00 ", nd , nd , nd , nd ," 4†400,00 "," 399,00 ", nd ,8
+392,CHEP M?xico,Log?stica y transporte,M,Australia," 5†500,00 ", nd , nd , nd , nd ," 300,00 "," 403,00 ", nd ,11
+393,Promotora Ambiental,Servicios p?blicos,H,M?xico," 54†782,00 "," 912,00 "," 4†652,00 "," 66†127,00 "," 41†218,00 "," 6†861,00 "," 393,00 "," 37,00 ",0
+394,Provident M?xico,Servicios financieros,H,Reino Unido," 5†405,00 "," 514,00 "," 5†134,00 "," 5†340,00 "," 2†407,00 "," 2†312,00 "," 432,00 "," 175,00 ",38
+395,Birmex,Servicios de salud,H,M?xico," 53†931,00 ","-711,00 "," 76,00 "," 62†589,00 "," 39†986,00 "," 470,00 "," 424,00 ","-31,00 ",29
+396,AIG Seguros M?xico,Seguros y fianzas,H,Estados Unidos," 53†867,00 "," 5†588,00 "," 5†291,00 "," 66†023,00 "," 4†187,00 "," 374,00 "," 370,00 "," 231,00 ",-26
+397,Kimball Electronics M?xico,Electr?nica,H,Estados Unidos," 53†812,00 ", nd , nd ," 9†399,00 ", nd ," 1†000,00 "," 401,00 ", nd ,4
+398,TI Group Automotive Systems M?xico,Automotriz y autopartes,H,Reino Unido," 5†255,00 ", nd , nd ," 17†801,00 ", nd , nd ," 394,00 ", nd ,-4
+399,Mota-Engil M?xico,Infraestructura,H,Portugal," 5†251,00 "," 256,00 "," 304,00 "," 13†354,00 "," 11†564,00 "," 1†811,00 "," 434,00 "," 143,00 ",35
+400,Super del Norte,Comercio autoservicio,H,M?xico," 5†250,00 ", nd , nd , nd , nd ," 6†000,00 "," 396,00 ", nd ,-4
+401,Toyota Financial Services M?xico,Servicios financieros,H,Jap?n," 52†386,00 "," 13†595,00 "," 18†055,00 "," 38†667,00 "," 330†619,00 "," 135,00 "," 368,00 "," 243,00 ",-33
+402,Bausch Health M?xico,Qu?mica farmac?utica,H,Canad?," 5†193,00 ", nd , nd ," 9†209,00 ", nd , nd ," 397,00 ", nd ,-5
+403,Solvay M?xico,Qu?mica y petroqu?mica,H,B?lgica," 51†567,00 ", nd , nd , nd , nd ," 500,00 "," 408,00 ", nd ,5
+404,Actinver Casa de Bolsa,Servicios financieros,H,M?xico," 5†140,00 "," 524,00 "," 694,00 "," 47†435,00 "," 44†651,00 "," 1†380,00 "," 360,00 "," 188,00 ",-44
+405,Yakult M?xico,Alimentos y bebidas,H,Jap?n," 51†121,00 ", nd , nd , nd , nd ," 3†500,00 "," 388,00 ", nd ,-17
+406,Enel M?xico,Energ?a,H,Italia," 5†111,00 ","-436,00 "," 1†166,00 "," 18†299,00 "," 24†059,00 "," 377,00 "," 435,00 ", nd ,29
+407,Dish de M?xico,Telecomunicaciones,H,M?xico/Estados Unidos," 5†100,00 ", nd , nd , nd , nd , nd ," 350,00 ", nd ,-57
+408,Capstone M?xico Mining Corp.,Miner?a,H,Canad?," 50†293,00 "," 21†911,00 "," 32†706,00 "," 20†611,00 "," 50†623,00 ", nd ," 476,00 ", nd ,68
+409,MG Motor M?xico,Armadora,H,Reino Unido," 5†000,00 ", nd , nd , nd , nd ," 1†200,00 "," 495,00 ", nd ,86
+410,Merck M?xico,Qu?mica farmac?utica,H,Alemania," 5†000,00 ", nd , nd , nd , nd ," 1†380,00 "," 411,00 ", nd ,1
+411,Bonatti M?xico,Petr?leo y gas,H,Italia," 5†000,00 ", nd , nd , nd , nd , nd ," 430,00 ", nd ,19
+412,Seguros Azteca,Seguros y fianzas,H,M?xico," 49†831,00 "," 298,00 ","-1†615,00 "," 56†395,00 "," 39†509,00 ", nd ," 402,00 "," 18,00 ",-10
+413,Cetelem,Servicios financieros,H,Francia," 4†963,00 "," 899,00 "," 1†140,00 "," 35†544,00 "," 28†977,00 "," 70,00 "," 400,00 "," 137,00 ",-13
+414,Organizaci?n Cultiba,Alimentos y bebidas,H,M?xico," 4†919,00 ","-7†056,00 ","-15†392,00 "," 181†574,00 "," 26†323,00 "," 2†096,00 "," 386,00 ","-45,00 ",-28
+415,Fibra Prologis,Servicios inmobiliarios,H,M?xico," 49†064,00 "," 99†794,00 "," 33†855,00 "," 721†908,00 "," 22†442,00 ", nd ," 404,00 "," 201,00 ",-11
+416,Playa Hotels & Resorts M?xico,Hoteler?a y turismo,H,Pa?ses Bajos," 4†900,00 ", nd , nd , nd , nd ," 4†032,00 "," 465,00 ", nd ,49
+417,Liconsa,Comercio autoservicio,H,M?xico," 4†896,00 "," 18†013,00 ","-4†827,00 "," 59†483,00 "," 15†625,00 "," 4†000,00 "," 369,00 "," 411,00 ",-48
+418,Grupo Vasconia,Siderurgia y metalurgia,H,M?xico," 48†718,00 "," 1†669,00 "," 3†537,00 "," 53†989,00 "," 31†418,00 "," 1†660,00 "," 452,00 "," 74,00 ",34
+419,Financiera Independencia,Servicios financieros,H,M?xico," 4†807,00 "," 3†469,00 "," 6†587,00 "," 10†599,00 "," 61†446,00 "," 4†735,00 "," 371,00 "," 78,00 ",-48
+420,Fibra Danhos,Servicios inmobiliarios,H,M?xico," 47†662,00 "," 28†048,00 "," 30†659,00 "," 680†398,00 "," 75†504,00 "," 229,00 "," 405,00 "," 46,00 ",-15
+421,Vector Casa de Bolsa,Servicios financieros,H,M?xico," 4†723,00 "," 246,00 "," 352,00 "," 33†533,00 "," 31†942,00 "," 800,00 "," 415,00 "," 155,00 ",-6
+422,Pascual Boing,Alimentos y bebidas,H,M?xico," 4†700,00 ", nd , nd , nd , nd ," 4†800,00 "," 412,00 ", nd ,-10
+423,Banco del Bienestar,Servicios financieros,M,M?xico," 4†588,00 ","-230,00 ","-317,00 "," 91†225,00 "," 74†120,00 "," 1†400,00 "," 420,00 ","-13,00 ",-3
+424,Financiera Nacional de Desarrollo,Servicios financieros,H,M?xico," 45†813,00 ","-10†746,00 "," 723,00 "," 50†717,00 "," 20†433,00 "," 1†000,00 "," 349,00 ","-35,00 ",-75
+425,GlaxoSmithKline,Qu?mica farmac?utica,M,Reino Unido," 4†570,00 ", nd , nd , nd , nd ," 720,00 "," 417,00 ", nd ,-8
+426,Arcosa Industries de M?xico,Infraestructura,H,Estados Unidos," 45†648,00 ", nd , nd ," 46†633,00 ", nd ," 2†035,00 "," 472,00 ", nd ,46
+427,Howmet Aerospace M?xico,Aeroespacial,H,Estados Unidos," 45†642,00 ", nd , nd ," 12†483,00 ", nd , nd ," 428,00 ", nd ,1
+428,Conagra Brands,Alimentos y bebidas,H,Estados Unidos," 4†551,00 ", nd , nd , nd , nd ," 871,00 "," 407,00 ", nd ,-21
+429,PAM Transport M?xico,Log?stica y transporte,H,Estados Unidos," 4†530,00 ", nd , nd , nd , nd , nd ," 446,00 ", nd ,17
+430,Corp. Interamericana de Entretenimiento,Entretenimiento,H,M?xico," 45†279,00 "," 57†699,00 "," 3†224,00 "," 124†978,00 "," 60†084,00 "," 675,00 "," 421,00 "," 889,00 ",-9
+431,Restaurantes Toks,Restaurantes,H,M?xico," 45†111,00 "," 2†272,00 ", nd ," 7†261,00 ", nd ," 8†400,00 "," 467,00 ", nd ,36
+432,Alamos Gold,Miner?a,H,Canad?," 44†851,00 ", nd ," 7†384,00 "," 110†341,00 "," 31†719,00 ", nd ," 373,00 ", nd ,-59
+433,Axalta Coating Systems M?xico,Qu?mica y petroqu?mica,H,Estados Unidos," 44†792,00 ", nd , nd , nd , nd ," 1†000,00 "," 427,00 ", nd ,-6
+434,Wabtec de M?xico,Automotriz y autopartes,H,Estados Unidos," 44†628,00 ", nd , nd ," 4†502,00 ", nd , nd ," 426,00 ", nd ,-8
+435,Agroasemex,Seguros y fianzas,H,M?xico," 44†586,00 "," 1†418,00 ","-6†785,00 "," 179†374,00 "," 134†864,00 "," 200,00 "," 442,00 "," 32,00 ",7
+436,Fortuna Silver Mines M?xico,Miner?a,H,Canad?," 4†383,00 ", nd , nd , nd , nd ," 1†200,00 "," 422,00 ", nd ,-14
+437,Autobuses IAMSA,Log?stica y transporte,H,M?xico," 43†464,00 ", nd , nd , nd , nd ," 30†000,00 "," 471,00 ", nd ,34
+438,Grupo Gayosso,Servicios funerarios,H,M?xico," 4†306,00 "," 489,00 "," 1†355,00 "," 10†106,00 "," 7†186,00 "," 6†871,00 "," 433,00 "," 167,00 ",-5
+439,GMD (Grupo Mexicano de Desarrollo),Infraestructura,H,M?xico," 42†495,00 "," 7†895,00 "," 10†152,00 "," 10†165,00 "," 37†909,00 "," 2†010,00 "," 438,00 "," 124,00 ",-1
+440,Eli Lilly de M?xico,Qu?mica farmac?utica,H,Estados Unidos," 4†236,00 ", nd , nd , nd , nd ," 569,00 "," 410,00 ", nd ,-30
+441,Inversora Burs?til Casa de Bolsa,Servicios financieros,H,M?xico," 4†235,00 "," 317,00 "," 343,00 "," 55†707,00 "," 51†581,00 "," 240,00 "," 391,00 "," 77,00 ",-50
+442,Fibra Educa,Servicios inmobiliarios,H,M?xico," 4†197,00 "," 38†323,00 "," 37†709,00 "," 297†936,00 ", nd , nd ," 470,00 "," 129,00 ",28
+443,Sistema de Transporte Colectivo,Log?stica y transporte,M,M?xico," 41†938,00 ","-75†242,00 ","-80†681,00 "," 3†383†235,00 "," 43†582,00 "," 15†500,00 "," 409,00 ","-23,00 ",-34
+444,Finamex Casa de Bolsa,Servicios financieros,H,M?xico," 4†189,00 "," 11,00 ","-31,00 "," 61†466,00 "," 59†821,00 "," 280,00 "," 361,00 "," 7,00 ",-83
+445,Vinte Inmobiliaria,Inmobiliario,H,M?xico," 41†612,00 "," 379,00 "," 643,00 "," 9†512,00 "," 5†143,00 "," 1†841,00 "," 440,00 "," 87,00 ",-5
+446,Grupo GICSA,Inmobiliario,H,M?xico," 4†130,00 "," 1†782,00 "," 23†697,00 "," 762†485,00 "," 449†838,00 "," 705,00 "," 398,00 "," 6,00 ",-48
+447,Stabilus M?xico,Automotriz y autopartes,H,Luxemburgo," 40†512,00 ", nd , nd , nd , nd , nd ," 445,00 ", nd ,-2
+448,ArvinMeritor de M?xico,Automotriz y autopartes,H,Estados Unidos," 39†855,00 ", nd , nd ," 43†665,00 ", nd , nd ," 463,00 ", nd ,15
+449,Fibra Terrafina,Servicios inmobiliarios,H,M?xico," 39†751,00 "," 61†755,00 "," 70†499,00 "," 544†351,00 "," 212†185,00 "," 65,00 "," 416,00 "," 186,00 ",-33
+450,Epiroc M?xico,Maquinaria y equipo,M,Suecia," 39†648,00 ", nd , nd , nd , nd , nd ," 447,00 ", nd ,-3
+451,Hydro Aluminium M?xico,Siderurgia y metalurgia,H,Noruega," 39†509,00 ", nd , nd ," 4†996,00 ", nd ," 418,00 "," 437,00 ", nd ,-14
+452,Grupo Royal Holiday,Hoteler?a y turismo,H,M?xico," 3†938,00 "," 71,00 "," 110,00 "," 9†644,00 "," 4†464,00 "," 3†813,00 "," 489,00 "," 14,00 ",37
+453,Bolsa Mexicana de Valores,Servicios financieros,H,M?xico," 39†243,00 "," 15†972,00 "," 21†838,00 "," 85†897,00 "," 8†603,00 "," 472,00 "," 431,00 "," 207,00 ",-22
+454,M?dica Sur,Servicios de salud,H,M?xico," 39†061,00 "," 13†577,00 "," 6†616,00 "," 6†984,00 "," 20†697,00 "," 2†227,00 "," 413,00 "," 276,00 ",-41
+455,Codere M?xico,Juegos y sorteos,H,Espa?a," 3†900,00 ", nd , nd , nd , nd ," 5†000,00 "," 490,00 ", nd ,35
+456,Fibra Macquarie M?xico,Servicios inmobiliarios,H,M?xico," 38†476,00 "," 77†916,00 "," 29†659,00 "," 509†069,00 "," 176†846,00 "," 73,00 "," 425,00 "," 235,00 ",-31
+457,Assa Abloy M?xico,Materiales y herramientas,H,Suecia," 38†301,00 ", nd , nd , nd , nd ," 1†901,00 "," 455,00 ", nd ,-2
+458,Meli? Hotels International,Hoteler?a y turismo,H,Espa?a," 38†272,00 ", nd , nd ," 89†112,00 ", nd ," 1†726,00 "," 478,00 ", nd ,20
+459,Compa??a Mexicana de Exploraciones,Petr?leo y gas,-,M?xico," 38†112,00 ", -   ," 1†637,00 "," 54†084,00 "," 19†899,00 "," 800,00 "," 480,00 ", -   ,21
+460,Adelnor Grupo Empresarial,Agroindustria,H,M?xico," 3†800,00 ", nd , nd , nd , nd ," 700,00 "," 457,00 ", nd ,-3
+461,Grupo Senda,Log?stica y transporte,H,M?xico," 3†800,00 ", nd , nd , nd , nd ," 7†000,00 "," 486,00 ", nd ,25
+462,Great Panther Mining M?xico,Miner?a,H,Canad?," 37†665,00 ","-8†569,00 ","-6†755,00 "," 54†033,00 "," 36†027,00 "," 270,00 "," 374,00 ","-476,00 ",-88
+463,Grupo HYCSA,Construcci?n,H,M?xico," 37†645,00 "," 2†561,00 "," 4†099,00 "," 42†229,00 "," 28†178,00 "," 620,00 "," 462,00 "," 182,00 ",-1
+464,Dongkuk Steel M?xico,Siderurgia y metalurgia,H,Corea," 37†634,00 ", nd , nd , nd , nd , nd ," 487,00 ", nd ,23
+465,BUPA M?xico,Seguros y fianzas,H,Reino Unido," 36†319,00 "," 583,00 "," 56,00 "," 3†720,00 "," 30†617,00 "," 637,00 "," 449,00 "," 89,00 ",-16
+466,Grupo Famsa,Comercio departamental,H,M?xico," 36†162,00 ","-35†394,00 ","-19†934,00 "," 94†351,00 "," 264†367,00 "," 4†882,00 "," 337,00 ", nd ,-129
+467,Helvex,Materiales y herramientas,H,M?xico," 3†590,00 ", nd , nd , nd , nd ," 2†139,00 "," 469,00 ", nd ,2
+468,Grupo Witt Automotriz,Automotriz y autopartes,H,M?xico," 3†573,00 "," 89,00 "," 127,00 "," 1†870,00 "," 1†019,00 "," 745,00 "," 436,00 "," 105,00 ",-32
+469,Tupperware Brands M?xico,Comercio especializado,H,Estados Unidos," 35†168,00 ", nd , nd , nd , nd ," 1†000,00 "," 377,00 ", nd ,-92
+470,Scotia Inverlat Casa de Bolsa,Servicios financieros,H,Canad?," 3†508,00 "," 645,00 "," 855,00 "," 6†432,00 "," 3†430,00 "," 400,00 "," 443,00 "," 215,00 ",-27
+471,Grupo Financiero Aserta,Servicios financieros,H,M?xico," 33†725,00 "," 165,00 "," 294,00 "," 81†015,00 "," 58†661,00 "," 350,00 "," 461,00 "," 74,00 ",-10
+472,Monex Casa de Bolsa,Servicios financieros,H,M?xico," 3†303,00 "," 174,00 "," 254,00 "," 32†201,00 "," 31†610,00 "," 179,00 "," 466,00 "," 294,00 ",-6
+473,Nabors Perforaciones de M?xico,Petr?leo y gas,-,Estados Unidos," 3†300,00 ", nd , nd , nd , nd , nd ," 481,00 ", nd ,8
+474,JK Tornel,Automotriz y autopartes,H,India," 32†944,00 ","-166,00 "," 36,00 "," 31†262,00 "," 19†614,00 "," 1†350,00 "," 454,00 ","-14,00 ",-20
+475,Corporaci?n Inmobiliaria Vesta,Inmobiliario,H,M?xico," 32†616,00 "," 35†285,00 "," 26†099,00 "," 564†774,00 "," 267†307,00 "," 89,00 "," 458,00 "," 119,00 ",-17
+476,Bans?,Servicios financieros,H,M?xico," 3†260,00 "," 569,00 "," 747,00 "," 40†737,00 "," 36†893,00 "," 367,00 "," 477,00 "," 148,00 ",1
+477,Exportadora de Sal,Qu?mica y petroqu?mica,H,M?xico," 31†893,00 "," 1†221,00 "," 8†262,00 "," 44†392,00 "," 5†929,00 "," 1†400,00 "," 482,00 "," 32,00 ",5
+478,Werner de M?xico,Log?stica y transporte,H,Estados Unidos," 31†727,00 ", nd , nd ," 6†021,00 ", nd ," 500,00 "," 459,00 ", nd ,-19
+479,Dana de M?xico Corporaci?n,Armadora,H,Estados Unidos," 31†645,00 ", nd , nd , nd , nd , nd ," 460,00 ", nd ,-19
+480,FM Global de M?xico,Seguros y fianzas,H,Estados Unidos," 31†546,00 "," 456,00 "," 221,00 "," 36†716,00 "," 29†204,00 ", nd ," 453,00 "," 61,00 ",-27
+481,Caffenio,Alimentos y bebidas,H,M?xico," 3†150,00 ", nd , nd , nd , nd ," 2†800,00 "," 483,00 ", nd ,2
+482,FCA Financial Mexico,Servicios financieros,-,M?xico," 3†144,00 "," 1†023,00 "," 1†286,00 "," 17†008,00 "," 10†769,00 ", nd ," 451,00 "," 164,00 ",-31
+483,Seguros Ve por M?s,Seguros y fianzas,-,M?xico," 3†139,00 "," 207,00 ","-1†412,00 "," 39†576,00 "," 34†328,00 ", nd ," 474,00 "," 39,00 ",-9
+484,Veolia M?xico,Servicios p?blicos,H,Francia," 3†117,00 ", nd , nd , nd , nd ," 2†640,00 "," 475,00 ", nd ,-9
+485,RHI Magnesita de M?xico,Qu?mica y petroqu?mica,H,Austria," 31†126,00 ", nd , nd ," 8†332,00 ", nd ," 500,00 "," 479,00 ", nd ,-6
+486,FibraHotel,Hoteler?a y Turismo,H,M?xico," 3†110,00 ","-542,00 "," 451,00 "," 162†455,00 "," 55†681,00 ", nd ," 496,00 ","-5,00 ",10
+487,Grupo Multisistemas de Seguridad Industrial,Servicios de seguridad,H,M?xico," 30†889,00 "," 208,00 "," 2†084,00 "," 2†179,00 "," 396,00 "," 16†343,00 "," 448,00 "," 117,00 ",-39
+488,Brown-Forman Tequila M?xico,Bebidas alcoh?licas y tabaco,H,Estados Unidos," 30†853,00 ", nd , nd , nd , nd ," 211,00 "," 450,00 ", nd ,-38
+489,Value Grupo Financiero,Servicios financieros,H,M?xico," 3†072,00 "," 611,00 "," 732,00 "," 20†051,00 "," 13†999,00 "," 125,00 "," 492,00 "," 101,00 ",3
+490,Seguros Argos,Seguros y fianzas,H,M?xico," 30†671,00 ","-2†178,00 ","-5†882,00 "," 47†939,00 "," 42†507,00 "," 150,00 "," 468,00 ","-401,00 ",-22
+491,Aranzazu - Aura Minerals,Miner?a,H,Estados Unidos," 30†623,00 "," 7†257,00 "," 12†277,00 "," 33†636,00 ", nd , nd ," 497,00 ", nd ,6
+492,Corpovael Inmobiliaria,Inmobiliario,H,M?xico," 30†486,00 "," 1†254,00 "," 3†274,00 "," 105†765,00 "," 5†389,00 "," 9,00 "," 456,00 "," 24,00 ",-36
+493,Goldman Sachs Casa de Bolsa,Servicios financieros,H,Estados Unidos," 3†020,00 "," 209,00 ","-16,00 "," 63†638,00 "," 53†590,00 "," 30,00 "," 439,00 "," 21,00 ",-54
+494,CCL Industries M?xico,Vidrio y envases,H,Canad?," 3†010,00 ", nd , nd , nd , nd , nd ," 485,00 ", nd ,-9
+495,KUA,Alimentos y bebidas,H,M?xico," 3†002,00 ","-9,00 "," 146,00 "," 4†029,00 "," 2†308,00 "," 1†327,00 "," 491,00 ","-5,00 ",-4
+496,Park-Ohio de M?xico,Maquinaria y equipo,H,Estados Unidos," 3†001,00 ", nd , nd , nd , nd , nd ," 493,00 ", nd ,-3
+497,Grupo AGGALL - Coliman,Agroindustria,H,M?xico," 3†000,00 ", nd , nd , nd , nd ," 3†000,00 "," 488,00 ", nd ,-9
+498,Axity,Computaci?n y servicios,H,M?xico," 3†000,00 "," 192,00 "," 166,00 "," 4†406,00 "," 2†537,00 "," 3†032,00 "," 464,00 "," 103,00 ",-34
+499,Hospitales MAC,Servicios de salud,H,M?xico," 3†000,00 "," 229,00 ", nd ," 6†533,00 "," 3†917,00 "," 2†495,00 "," 498,00 "," 88,00 ",-1
+500,Kavak,Automotriz y autopartes,H,M?xico," 3†000,00 ", nd , nd , nd , nd ," 700,00 "," 500,00 ", nd ,0
