@@ -9,8 +9,11 @@ df = df.to_excel('res1.xlsx')
 
 df = pd.read_excel('res1.xlsx')
 
-df = df.drop(['Company','Sector',"Country","neto",'oper', 'Ventas'],  axis=1)
-df.dropna(inplace=True)
+df = df.drop(['Ranking','Company','Sector',"Country","Ventas","neto","oper","Empl","Roe"],  axis=1)
+df.dropna(axis=0, inplace=True)
+
+df = df.to_excel('res1.xlsx')
+df = pd.read_excel('res1.xlsx')
 print(df.head())
 
 
@@ -41,12 +44,12 @@ def optimise_k_means(data, max_k):
     plt.ylabel('Inertia')
     plt.grid(True)
     plt.show()
-optimise_k_means(df[['Activo', 'Roe']],10)
+optimise_k_means(df[['Activo', 'pasivo']],10)
 
     #Создание кластеров - Проведение кластеризации
 
 kmeans = KMeans(n_clusters=3)
-kmeans.fit(df[['Activo', 'Roe']])
+kmeans.fit(df[['Activo', 'pasivo']])
 df['kmeans_3'] = kmeans.labels_
 
     #Готовый к визуализации дб с средними значениями
@@ -59,9 +62,10 @@ print(df.groupby('kmeans_3').mean())
 
     #Кластерный график
 
-plt.scatter(x=df['Roe'], y=df['Activo'], c=df['kmeans_3'])
-plt.xlim(-200, 1000, 100)
-plt.xlabel('Roe', fontsize=16)
-plt.ylim(0.5,40)
-plt.ylabel('Активы компании', fontsize=16)
+plt.scatter(x=df['Activo'], y=df['pasivo'], c=df['kmeans_3'])
+plt.xlim(0,25)
+plt.xlabel('Assets', fontsize=12)
+plt.ylim(0,25)
+plt.ylabel('Liabilities', fontsize=12)
+plt.suptitle('Clustering k-means (total)', fontsize=12)
 plt.show()
